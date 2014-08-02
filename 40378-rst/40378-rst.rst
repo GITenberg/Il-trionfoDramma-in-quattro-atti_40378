@@ -1,0 +1,8364 @@
+.. -*- encoding: utf-8 -*-
+
+.. meta::
+   :PG.Id: 40378
+   :PG.Title: Il trionfo
+   :PG.Released: 2012-07-31
+   :PG.Rights: Public Domain
+   :PG.Producer: Carlo Traverso
+   :PG.Producer: Claudio Paganelli
+   :PG.Producer: Barbara Magni
+   :PG.Producer: the Online Distributed Proofreading Team at http://www.pgdp.net
+   :PG.Credits: This file was produced from images generously made available by The Internet Archive.
+   :DC.Creator: Roberto Bracco
+   :DC.Title: Il trionfo
+              Dramma in quattro atti
+   :DC.Language: it
+   :DC.Created: 1909
+   :coverpage: images/cover.jpg
+
+.. style:: title
+   :class: center
+
+.. style:: subtitle
+   :class: center
+
+.. role:: small-caps
+   :class: small-caps
+
+.. role:: xx-large
+   :class: xx-large
+
+.. role:: x-large
+   :class: x-large
+
+.. role:: large
+   :class: large
+
+.. role:: small
+   :class: small
+
+.. role:: largeit
+   :class: large italics
+
+.. style:: block_quote
+   :class: small noindent
+
+==========
+Il trionfo
+==========
+
+.. pgheader::
+
+.. container:: coverpage
+
+   .. image:: images/cover.jpg
+      :align: center
+
+.. clearpage::
+
+.. container:: titlepage
+
+   .. class:: center
+
+   | :large:`ROBERTO BRACCO`
+   |
+   | :xx-large:`TEATRO`
+   |
+   | :large:`VOLUME SECONDO`
+   |
+   | MASCHERE — INFEDELE — **IL TRIONFO**
+   |
+   | :small:`3ª EDIZIONE RIVEDUTA.`
+   |
+   |
+   |
+   | REMO SANDRON — Editore
+   | :small:`Libraio della Real Casa`
+   | :small:`MILANO-PALERMO-NAPOLI-GENOVA-BOLOGNA-TORINO`
+   |
+   | :small:`Copyright by Roberto Bracco and Miss Dircé St. Cyr in the United States of America.`
+
+.. clearpage::
+
+.. container:: verso
+
+   .. class:: center
+
+   PROPRIETÀ LETTERARIA
+
+			*I diritti di riproduzione e di traduzione sono riservati
+			per tutti i paesi, non escluso il Regno di Svezia e quello
+			di Norvegia.*
+
+			È assolutamente proibito di rappresentare queste produzioni
+			senza il consenso scritto dell'Autore *(Art. 14 del Testo Unico
+			17 Settembre 1882)*.
+
+			Off. Tip. Sandron — 12 — I — 080817.
+
+.. clearpage::
+
+.. class:: center
+
+| :x-large:`IL TRIONFO`
+|
+| :largeit:`Dramma in quattro atti.`
+
+Questo dramma fu rappresentato per la prima
+volta in Italia, al teatro *Alfieri* di Torino, la sera
+del *10 gennaio 1895*, dalla compagnia drammatica
+:small-caps:`Zacconi-Pilotto`.
+
+.. clearpage::
+
+.. contents:: INDICE
+   :backlinks: entry
+   :depth: 1
+
+.. clearpage::
+
+.. class:: center large
+
+PERSONAGGI:
+
+   .. class:: large
+
+   | :small-caps:`Lucio Saffi`
+   | :small-caps:`Nora`
+   | :small-caps:`Don Paolo`
+   | :small-caps:`Giovanni`
+   | :small-caps:`Ziegler`
+   | :small-caps:`Felsani`
+   | :small-caps:`Rosa`
+   | :small-caps:`Giustino`
+   | :small-caps:`Un Contadino`
+
+[pg!192]
+
+.. vspace:: 2
+
+.. class:: center large
+
+| ANNOTAZIONI PER GLI ARTISTI.
+
+.. container:: noindent
+
+   **Lucio Saffi** — 28 anni: viso espressivo, mobilissimo, segnato
+   dall'intensa sensibilità spirituale.
+
+   **Nora** — maestra di pianoforte: 24 anni; natura debole,
+   impressionabile.
+
+   **Giovanni** — un bel giovane gagliardo, sulla trentina,
+   pittore.
+
+   **Ziegler** — violinista: poco più di 30 anni; piuttosto brutto,
+   capelli castani un po' a zazzera, disordinato negli
+   abiti e nei gesti.
+
+   **Felsani** — medico celebre: 74 anni; spalle curve, barba
+   fluente e capelli bianchissimi, modi assai signorili;
+   incesso grave; voce monotona, sottile, insinuante;
+   parla lentamente, sillabando le parole, con pacatezza
+   eccessiva e aristocratica.
+
+   **Don Paolo** — prete molto disinvolto, spregiudicato e
+   giovialissimo; faccia bonaria e ridanciana: 56 anni.
+
+   **Rosa** — giovanetta bella, fresca, piena di salute: 21 anni,
+   vesti e maniere tra di contadina e di provincialotta
+   ricca.
+
+   **Giustino** — benestante campagnuolo, giovanissimo, sano,
+   arzillo, e, a modo suo, elegante.
+
+[pg!193]
+
+
+
+
+ATTO PRIMO.
+===========
+
+
+*Un salotto semplice, modesto, adibito provvisoriamente
+a camera da letto. Il letto, difatti, situato
+verso il lato sinistro, ha il capezzale un po' discosto
+dalla parete, quasi avanti a una porta chiusa. Alla
+parete opposta, una finestra. In fondo, la porta comune,
+dalla quale si vede un'altra piccola stanza.
+Presso il letto, una larga poltrona. Pendono ai
+muri alcuni quadri anatomici. Nell'angolo più lontano
+dal letto, un'ampia tavola, su cui sono, confusamente,
+fiale e scatole di medicinali, qualche bottiglia,
+qualche piatto, qualche asciugamano, qualche
+bicchiere, delle arance, una candela di cera, un
+paralume.*
+
+*Qua e là, nella camera, altre suppellettili, in disordine. — È
+sera. — La candela è accesa, diffondendo
+poca luce. — L'ambiente è concentrato e triste.*
+
+
+SCENA I.
+--------
+
+LUCIO, GIOVANNI, FELSANI.
+`````````````````````````
+
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+[pg!194]
+
+*(è adagiato sul basso letto tutto bianco, ma dalla
+cintola in su è quasi ritto, con le spalle e il capo
+sorretti da una catasta di guanciali. Ha gli occhi
+infossati, lo sguardo debole e vagante, il volto pallidissimo
+e smunto, la barbettina incolta. Ha un
+braccio serrato al petto, tenendo sotto l'ascella un
+piccolo termometro.)*
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+*(è seduto sulla poltrona.)*
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(in piedi, presso la candela, ha in mano una lettera.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(parlerà con voce fioca; ma quando, a poco a poco,
+o ad un tratto, egli si animerà, il suo accento avrà
+vibrazioni affannosamente vivaci.)*
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(guardando la lettera)* Qui c'è una cancellatura.
+Si vede che gli era sfuggita qualche parola eccessivamente
+efficace....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Dottore, sono passati i dieci minuti?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(consultando il suo orologio)* Non ancora.
+
+[pg!195]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Questi termometri! Che noia! *(A Giovanni:)* Continua,
+Giovanni. Vedi che bel tipo!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Lei permette, dottore? Tanto per ammazzare il
+tempo....
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Ammazzi pure.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(a Giovanni:)* Ma grida un po'....
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Non l'avevi letta?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Me l'aveva appena leggiucchiata la signorina
+Nora.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(leggendo:)*... «Sicchè, Sua Eminenza, che, standomi
+ad ascoltare, s'era grattata, con rispetto parlando,
+un poco dappertutto — segno evidente che non
+avevo saputo grattarla io —, all'ultimo, alquanto
+impacciata, così mi parlò: «Voi don Paolo, non
+[pg!196]
+ne dubito, di qui a cento anni sarete anche beatificato,
+visto che nel villaggio tutti dicono, ed io lo
+credo, che siete un curato esemplare e miracoloso;
+ma io sostengo che lassù sarete un santo come non
+ve ne sono stati mai». E il giorno dopo, nipote
+mio, Sua Eminenza se n'è partita, salutata, acclamata
+da tutto il paese, ma giurando in cuor suo, — te
+lo dico io — di non metterci mai più il piede.»
+*(A Lucio:)* Egli però non se ne mostra troppo
+afflitto. *(Legge:)* «Insomma, non le piacqui. Anzi,
+la infastidii, specie con le mie risate. Santa pazienza!...
+Come si fa a fingere sempre? E poi, mascherare
+la faccia forse è possibile, ma la voce come
+si maschera? È quella che è. La mia ride; e a Sua
+Eminenza piacciono le voci che piangono. *De gustibus*,
+caro nipote! La vaccherella neonata sta come
+un pesce. Rosina fa all'amore con un giovinetto
+lavoratore e ricco. La semina del grano è terminata.
+E io me la godo. — Sperando di ricevere finalmente
+tue nuove, ti abbraccia e benedice il tuo affezionatissimo
+zio Paolo.»... Bel tipo davvero! *(A
+Lucio:)* Non sa che sei malato?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Non sa?... Che cosa?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(alzando la voce)* Dico: tuo zio non lo sa che
+sei malato?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+No, no. — Dottore, sono passati i dieci minuti?
+[pg!197]
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+*(dopo aver consultato il suo orologio)* Ora sì. *(Si
+alza lentamente, prende il termometro, si avvicina
+alla candela.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Per conto mio, abolirei i termometri.
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Benissimo, collega. In qualità di medico, lei può
+abolire anche la medicina. Ma in qualità di ammalato,
+non deve che subirla.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(a Lucio:)* Hai capito?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(a Felsani, che osserva il termometro:)* Quanti
+gradi, dottore?
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Ah?... Non così abolizionista come dice di essere!
+Trentanove meno qualche decimo.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Siamo in porto, perbacco!
+
+[pg!198]
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+E anche senza questa importante diminuzione
+non ci sarebbe più niente da temere. Il superare
+la crisi dell'altra notte, fu vittoria decisiva. Sono
+quarantotto ore che Lucio Saffi ha concluso e sottoscritto
+il suo trattato di pace con la Vita. Questa
+volta *(si avvicina a Lucio)* possiamo congratularci
+con la scienza.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Con la scienza? *(Tentenna un poco il capo.)*
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+*(parlandogli assai dappresso)* Con la *nostra* Scienza,
+collega.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Nostra, no. Io non saprei che farmene.
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Ottimamente. Nondimeno, veda, lei è un medico
+come me.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ho una laurea come lei.
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Ottenuta, io lo ricordo, con esami onorevoli.
+
+[pg!199]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ma non sono medico, e non potrò esserlo mai.
+Oh!... La scienza!... Io l'ho studiata con passione,
+anzi con avidità.... Me ne sono abbeverato avidamente,
+come... come un viaggiatore del deserto si
+abbevera alla prima sorgente che trova; ma poi!...
+Ma poi!....
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Ma poi... io la prego di parlare poco e di pensare
+meno. Mi fa questa grazia?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(continuando senza badargli)*... Più bevevo, e più
+avevo sete. Sicuro! Quando mi si disse: «ohè, ohè,
+sei dottore!», io ebbi la coscienza di essere un
+ignorante...
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Mi fa la grazia di chetarsi?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(animandosi)* ...E tutte le ricerche febbrili tendenti
+a scoprire il segreto dell'esistenza, non
+lasciarono in me che un gran disprezzo per l'inanità
+della scienza, dei cui simboli grotteschi — guardi
+dottore, guardi — ho voluto ornare i
+muri in segno di scherno, e un gran desiderio,
+[pg!200]
+anche, mi rimase, un gran bisogno di cercare...
+di cercare... di cercare altrove! *(Si abbatte.)*
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+*(dopo una lunga pausa, si accosta a Lucio)* Ecco,
+lo vede? È stanco. Avrà tanto tempo — glielo prometto
+io — per dire alla scienza ed agli scienziati
+tutto il male che ne pensa; ma per ora, signor
+Lucio, *(con severità paterna)* io non la prego più,
+bensì le ordino di fare a modo mio. *(Pausa. Poi,
+andando verso Giovanni e abbassando la voce)* Senta.
+Sino alle due della notte, desidero che lo si
+lasci tranquillo. Alle due, o un po' più tardi, l'infermo
+ricomincerà a prendere la cartina consueta.
+E durante la notte, se avrà sete, potrà bere abbondantemente
+la sua aranciata. Ha niente da obiettare
+il signor pittore?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Si figuri! Niente.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Non mi riesce di udire nemmeno una parola. Le
+sue droghe, dottore, mi hanno fatto diventar sordo.
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Benissimo! Potremo così sparlare di lei senza
+domandargliene il permesso.
+
+[pg!201]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(a Felsani:)* Appunto, dottore, volevo dirle....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(socchiude gli occhi in una specie di dormiveglia.)*
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+*(a Giovanni:)* Dica.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Egli si lamenta della residenza precaria in questa
+stanza, e non sogna che di ritornarsene lì, nella
+sua cameruccia abituale.
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Quella cameruccia sembra una tomba, e noi
+gliene vieteremo l'ingresso, perchè, suo malgrado,
+lo vogliamo vivo. Qui, caro signor Giovanni, c'è
+un poco più di luce.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Ed egli odia la luce.
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Una stravaganza che nasconde Dio sa quale dei
+suoi attorcigliamenti d'idee.
+
+[pg!202]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Lo so, ma, purtroppo!... guai a contraddirlo.
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Contraddirlo no; secondarlo sempre, neppure. È
+necessario distoglierlo, distrarlo dai suoi sofismi,
+dai suoi cavilli, da quel ragionare eccessivo in cui
+il suo pensiero si contorce. Ahimè! Ragionar
+troppo significa correre il pericolo di non ragionar
+più. Con la febbre a quarantuno, delirava. Questo
+era naturalissimo. Ma il male è che, passato
+delirio, egli ricorda la visione e i fantasmi del delirio
+e qualche volta ne parla come d'un fatto
+veramente accaduto, come di una persona veramente
+vista. Proclive a crearsi un altro mondo, determina,
+in sè stesso, una specie di sovrapposizione.
+Da che cosa è prodotto tutto questo? Io credo da
+una sproporzione, da uno squilibrio. Egli consuma,
+cioè, del suo cervello più di quanto possa consumare.
+Non ha notato lei che dopo uno dei suoi
+sforzi riflessivi egli, accasciato, si assopisce nel riposo?
+La natura medesima, dunque, gli chiede un
+risarcimento. Ed ecco perchè bisogna evitargli l'eccesso
+della riflessione. È del mio parere il signor
+pittore?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Ma... naturale!...
+
+[pg!203]
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+E sarà utile che del mio parere siano gli altri
+amici che assistono l'infermo.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Avvertirò Ziegler.
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Avverta, prima d'ogni altro, la signorina Nora....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(a questo nome si desta.)*
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Quella donna, se non vado errato, ha un certo
+ascendente su lui....
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+In verità, non lo conosce che da quando è venuta
+ad abitare qui accanto; ma, senza dubbio, per
+lui, è una vicina eccellente.
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Una vicina eccellente! Ben detto! Ben detto! Ed
+è ciò che si può desiderare di meglio.
+
+[pg!204]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Giovanni, è illuminata la sua finestra?
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Ah! Lei ascoltava? Cosicchè l'effetto delle mie
+malefiche droghe non è completo?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+M'è parso dì udir pronunziare il nome di Nora.
+Mi sono, forse, ingannato?
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Ingannato? Punto. E solamente questo nome ha
+udito?...
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Questo nome, dottore.
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Benissimo.... Benissimo....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+È illuminata la sua finestra, Giovanni?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(guardando la finestra)* No. Ella non deve essere
+ancora tornata dal concerto. Già, sarebbe venuta
+[pg!205]
+direttamente qui. Ma non potrà tardare. I pezzi che
+doveva suonare con Ziegler erano segnati al principio
+della seconda parte del programma.
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+*(a Lucio, fissandogli addosso gli occhietti scrutatori:)*
+È una pianista valorosa?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+È una incomparabile infermiera.
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Simpatica, anche....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Assai mite.
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Quasi bella....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(breve pausa)* Peccato!
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+*(ha un lieve moto di stupore. Indi, rivolgendosi
+pianissimo a Giovanni:)* Che ne dice lei, signor pittore,
+di tutto ciò?
+
+[pg!206]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Non è un innamorato.
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Molto ben detto. Senonchè, io non sono della sua
+opinione.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(chiamando:)* Giovanni! Giovanni! Va, ti prego,
+va ad aprire la porta. La signorina Nora è su per
+le scale. Non ne hai udita la risatina?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Io, no; ma non monta.... *(Esce dalla comune.)*
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+*(accostandosi a Lucio)* Non le pare d'aver udita
+quella risatina più col pensiero che con gli orecchi?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(dilatando istantaneamente le pupille)* Perchè lo
+vuol sapere?
+
+[pg!207]
+
+
+SCENA II.
+---------
+
+LUCIO, GIOVANNI, FELSANI, ZIEGLER, NORA.
+````````````````````````````````````````
+
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(porta in mano un mazzo di fiori. Ha un'elegante
+e semplicissima veste bianca dallo strascico molto
+lungo. La ciarpa che le covre i capelli, e un po' il
+viso, e il mantello in cui si avvolge, mettono nell'ambiente
+caldo l'impressione dell'aria fredda della
+strada.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(indossa, sbottonato e col bavero alzato, un largo
+e vecchio paltò svolazzante, sotto il quale il frak
+inelegante e il nitido cravattone bianco completano
+il carattere della figura alquanto bizzarra. Ha in
+mano il violino chiuso nella cassetta e alcune carte
+di musica avvoltolate.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(entrando)* Buone notizie, nevvero?
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Sempre buone quando un medico tiene a darle
+egli stesso.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(a Felsani:)* Lei qui a quest'ora? Giù, non avevo
+riconosciuta la sua carrozza.
+
+[pg!208]
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(andando premuroso verso Lucio)* Si va bene, eh?
+*(Mette in un angolo la cassetta, il cappello, le carte.)*
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+*(a Nora)* Io qui a quest'ora. Ma non tema, signorina,
+non usurpo il suo posto d'infermiera.
+Glielo abbandono tutto intero il nostro ex ammalato.
+*(Prende di su una seggiola la sua pelliccia. — Giovanni
+lo aiuta a indossarla.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Oh, garbata questa infermiera che entra munita
+di fiori nella camera dell'infermo! Ziegler, abbiate
+pazienza, buttateli via. *(Glieli dà.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Lusinghiero pel Comitato che ve li ha offerti.
+Piuttosto ve li porto in casa. Volete?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+No, no: buttateli via. Tanto, domani saranno
+secchi.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+I fiori!... Colore... profumo... niente altro!
+
+[pg!209]
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+*(a Giovanni:)* Grazie. *(A Ziegler:)* Dia a me, se
+non le dispiace, dia a me....
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(consegnandogli il mazzo di fiori)* Volentieri.
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Sino a domani li serberò io.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Così poetico, dottore? *(Si toglie la ciarpa, il mantello,
+i guanti.)*
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Poetico, precisamente, no. Ma mi permetto di fare
+osservare alla signorina Nora che è una crudeltà
+il buttar via dei fiori freschi solo perchè domani
+saranno secchi. Secondo lei, signorina, invece di
+curare un uomo, noi dovremmo ucciderlo, cioè....
+buttarlo via, solo perchè, tanto, un giorno o l'altro
+dovrà morire. Poetico, no. Un po' umanitario,
+ecco. E l'umanità comincia dove si vuole. Per alcuni
+comincia dalla scimmia.... Benissimo! Per me
+comincia.... dai fiori. «\ *Vivere! Vegetare forse?*» si
+domanderebbe un Amleto a rovescio.... E lei, signorina,
+che ne dice?... Qual è la sua opinione?...
+
+[pg!210]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non ne ho, dottore. Sono una ignorante, io.
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+*(sorpreso di sentire la stessa dichiarazione fatta
+poco prima da Lucio)* Ah?... Anche lei?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Perchè «\ *anche*»?
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+Nulla.... Non ci badi. *(A Lucio:)* A rivederci,
+collega. E si ricordi che la vittoria è :small-caps:`nostra`.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(sorride.)*
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+*(salutando)* Signorina... Signor Ziegler... Signor
+Giovanni....
+
+.. class:: center
+
+| :small-caps:`Nora`, :small-caps:`Giovanni` e :small-caps:`Ziegler`
+
+*(cortesemente, lo accompagnano.)*
+
+[pg!211]
+
+.. class:: center
+
+| :small-caps:`Felsani`
+
+*(uscendo lentissimamente)* Chi vedesse uscire a
+quest'ora da una casa un vecchio medico con un
+mazzo di fiori in mano, farebbe le più varie e fantasiose
+supposizioni, ma di certo non sospetterebbe
+che il vecchio medico abbia voluto salvare il mazzo
+di fiori... dalla crudeltà d'una infermiera gentile....
+*(Ancora salutando)* Signori.... *(Via.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(resta sulla soglia.)*
+
+.. class:: center
+
+| :small-caps:`Giovanni` *e* :small-caps:`Ziegler`
+
+.. class:: center
+
+| *(escono con lui e poi ritornano.)*
+
+
+SCENA III.
+----------
+
+LUCIO, NORA, GIOVANNI e ZIEGLER.
+````````````````````````````````
+
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(rientra, imitando lievemente l'andatura e l'accento
+del dottor Felsani)* «E così il benefico Comitato
+ha finito coll'offrire dei fiori al dottor Felsani.
+Benissimo!... *(a Nora:)* E lei, signorina, che ne
+dice?»
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Oh! Io dico, sul serio, di non averli meritati.
+
+[pg!212]
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Non le prestar fede, Lucio. Ha suonato divinamente.
+E anch'io mi sono piaciuto. La sonata di
+Grieg l'abbiamo — come dire? —... l'abbiamo sviscerata.
+E al secondo tempo, Nora, a suo marcio
+dispetto, è stata grande....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(ridendo e declamando:)* «Come nessun fu mai!»
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(pazientemente si sdraia sulla poltrona, ascoltando.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(a Nora:)* Date retta a me. In quell'*andante appassionato*....
+*(a Giovanni:)* Bada, era il secondo
+tempo della seconda sonata di Grieg; e lì dentro,
+sai, c'è tutta la Norvegia coi suoi fiordi e con le sue
+aurore boreali.... *(Continuando a rivolgere la parola
+a Nora e alzando il tono affinchè Lucio non resti
+estraneo alla conversazione:)* Sì, perdinci, in
+quell'*andante appassionato* avete messo tanta profondità
+d'intenzioni e tanta intensità di dolcezza sentita...
+quasi direi, di *dolcezza vissuta*... che quel
+Kaps, non so, pareva avesse un cuore, pareva vivere
+come voi, come me... *(entusiasmandosi)* e le corde
+del mio violino sconquassato cantavano, non perchè
+io le grattavo con l'archetto, no, ma perchè
+vivevano esse pure.... Proprio così!... Vivevano,
+[pg!213]
+intendete?, vivevano per una suggestione. Già, io
+non so esattamente che diamine significhi la parola
+*suggestione*, che tutti diciamo cento volte al giorno...;
+ma questa volta devo averla detta a proposito.
+Suggestione, incantesimo, malìa, magìa, miracolo!...
+Una di queste cose, insomma, ovvero...
+tutte quante insieme!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(ridendo)* Addirittura?!
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Addirittura! *(Sempre più entusiasmandosi)* Vi
+garantisco io che, dato un accompagnamento come
+il vostro, un violino suona da sè. E quando voi
+sedete al piano, Norina, parola d'onore, o che suoni
+io o che suoni Tartini redivivo, è precisamente lo
+stesso!...
+
+.. class:: center
+
+| :small-caps:`Nora` *e* :small-caps:`Giovanni`
+
+*(lo guardano comicamente.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Cioè... credo di avere un poco esagerato. Ritiro
+la parola d'onore.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(sorride.)*
+
+[pg!214]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(levandosi)* Hai finito, chiacchierone?
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(mortificato)* Vi vedevo attenti: supponevo di farvi
+piacere, parlando.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Be', se hai finito, *(stendendogli la mano)* buona
+notte.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(stringendogliela)* Te ne vai?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+No! Sei tu che te ne vai.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Ma che! Io ho da restare. Stanotte siamo di
+guardia Norina ed io.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Se ci sei stato la notte scorsa con lei! Stanotte
+spetta a me.
+
+[pg!215]
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+E tu non c'eri stato già due notti di fila? Spetta
+a me, caro mio.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+E io sostengo che spetta a me.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Bisticciatevi per questo, adesso!
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Decidete voi, Nora.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Andiamo, decidete voi.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non spetta a nessuno dei due. Il signor Lucio
+sta meglio, e quindi non c'è' bisogno di una duplice
+sentinella. Stanotte, ci resto io sola. Ecco la
+mia decisione.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+E basta così.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Non parlo più.
+
+[pg!216]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(dando a Giovanni il pastrano e il cappello)* A
+voi.... *(e a Ziegler il cappello, le carte e la custodia
+del violino)* A voi.... E dritti a casa, da bravi ragazzi.
+*(A Giovanni:)* La consegna?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+La consegna è questa. Sino alle due, possibilmente,
+riposo. A cominciare dalle due, le solite cartine,
+e se ha sete, la solita bibita. *(Indi, parlando
+pianissimo, ma con disinvoltura, affinchè Lucio
+non sospetti:)* D'un discorso molto serio fattomi
+dal dottore, parleremo poi a lungo domani.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Va bene.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(rialzando il tono e guardandola tutta)* Intanto
+sarete a disagio in questo abito di fantasma.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Andrò a svestirmi quando il signor Lucio si sarà
+addormentato.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+E se non si addormenterà, i vostri piedini staranno
+ad agghiacciarsi nelle calze di ragnatela e
+[pg!217]
+in questi petali di magnolia che chiamate scarpine.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Vi proibisco d'essere tanto bene informato della
+mia calzatura! Del resto, all'alba, Ziegler verrà a
+sostituirmi.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Beninteso!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+E perchè non io?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(vivamente)* Perchè *voi, no*!
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+E basta così.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Che tiranna, eh?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Tiranna?... Non lo so.
+
+[pg!218]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+È vero, signor Lucio, che sono un pochino tiranna?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+È la tirannia della Saggezza.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ah, sì?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(piano a Ziegler:)* Ti secca di non restar qui con
+lei?
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(piano a Giovanni:)* Per carità, Giovanni, non
+dirlo neanche per ischerzo.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(a Lucio:)* Noi ce ne andiamo, Lucio. *(Indicando
+Nora)* È lei che lo esige.... A domani, dunque.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(a Lucio:)* Domani, senza febbre e con gli occhioni
+luminosi e irrequieti come due fari. Mi sono
+spiegato?
+
+[pg!219]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(sorridendo dice di sì col capo.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(a Nora.)* Buona veglia, Norina! *(E via.)*
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(stringendole la mano)* A rivederci....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ahi! Ahi! Mi fate male....
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Eh!... Troppo fragile per essere una tiranna,
+troppo sensibile per essere un fantasma!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(quasi fra sè, con rancore)* Cattivo!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+.. class:: center
+
+| *(esce.)*
+
+[pg!220]
+
+
+SCENA IV.
+---------
+
+LUCIO *e* NORA.
+```````````````
+
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(si accinge a mettere in ordine gli oggetti che
+sono sulla tavola.)*
+
+.. class:: center
+
+| *(Un lungo silenzio.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Fa freddo, fuori?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Un poco. Voi avete freddo?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Sento che fa un poco di freddo, ma io non ho
+freddo.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Invece, io credo che abbiate freddo. Volete uno
+scialle?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+No.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Lo volete?
+
+[pg!221]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Siete voi che volete darmelo. Ebbene, io lo voglio.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(stende sul letto uno scialle bianco, e ritorna a
+rassettare gli oggetti sulla tavola.)*
+
+.. class:: center
+
+| *(Un silenzio breve.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Nora....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Signor Lucio?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Perchè odo la vostra voce meglio di quella degli
+altri?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(con lieve celia gentile)* Perchè le medicine che
+momentaneamente potevano indebolirvi l'udito ve
+le ho somministrate io. È giusto che esse abbiano
+fatta una eccezione per me.
+
+[pg!222]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(sorride)* Ah?.... Ho inteso. *(Pausa)* E adesso che
+fate?.... Sedete, adesso.... Raccontate.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Un momento.... C'era una gran confusione quassù....
+Tutta colpa del signor Giovanni! *(Seguendo
+il zig-zag del suo pensiero)* Un po' matto, ma vi
+vuole molto bene anche lui.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Sì. Giovanni e Ziegler sono due amici eccezionali.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ed io? *(Poggia il paralume verde davanti alla
+candela. Si volta, e ascolta.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Voi, no.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+No?!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Voi, non siete.... un'amica.
+
+[pg!223]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+E che sono, io?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ecco. Pocanzi il dottor Felsani diceva che la
+scienza mi ha ridata la vita....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+È vero!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Io sono convinto che me l'avete ridata voi.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Oh Dio! In che modo? *(Ascoltandolo, muoverà
+impercettibilmente verso di lui, e si fermerà un po'
+discosta dal letto.)*
+
+.. class:: center
+
+| *(Sono tutti e due in un'atmosfera di sogno.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+In che modo?.... La vita è la vita. Si sa come si
+scompone il corpo d'un uomo; non si sa... o, meglio,
+io non so di che si componga la sua vita. Quel
+che io so è di averla riavuta a guisa d'un dono,...
+di averne sentita la trasfusione. *(Pausa.)* Ricordate?...
+*(Pausa.)* Agonizzavo... Cominciavo a morire...
+La mia anima, liberandosi a poco a poco
+dalle sue spoglie, già si affacciava al mondo dì
+là... *Vedeva!*... *Vedeva!*... Comprendete?
+
+[pg!224]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Sì.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Poi... un alito dolce, in cui era una segreta intercessione,
+un segreto richiamo, la trattenne, la
+fece retrocedere, me la ricondusse... e la congiunse,
+di nuovo, completamente, a questo misero corpo...
+restituendogli la vita, che — demeritata — gli si era
+dispersa. *(Come in una ispirazione)* Chi aveva richiamata
+l'anima mia?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Chi?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Voi. E, difatti, mentre essa mi ritornava dentro,
+mentre io... rinascevo, voi mi stavate vicina, vigilando...
+aspettandomi... Mi stavate vicina...
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+.. container:: noindent
+
+   *(intenta, si accosta ancora un poco e, a piè del
+   letto, resta fissa, dinanzi a lui, suggendone ogni
+   parola.)*
+
+   *(Il biancore del suo abito, il cui strascico si distende,
+   e quello del letto compongono, nell'ombra,
+   tutta una vaga forma bianca.)*
+
+[pg!225]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+... Così... Così... come state ora: secura, diritta,
+solenne, grande, eppure umile.... Assai umile... assai
+umile....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(assorta)* Lucio....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+.. container:: noindent
+
+   *(spalancando gli occhi che diventano d'una luminosità
+   soave)* E così, con questa voce, con una
+   voce che è soltanto vostra, mi dicevate: Lucio...
+   Lucio....
+
+   *(Muti, immobili, si guardano. — Il silenzio incombe.)*
+
+.. class:: center
+
+| (:small-caps:`Sipario.`)
+
+[pg!227]
+
+
+
+
+ATTO SECONDO.
+=============
+
+
+*La medesima stanza. Ma l'ambiente è divenuto
+quasi gaio. Non c'è più il letto. Dove erano le fiale
+e i medicinali, si vedono, ora, piatti, bottiglie di
+vino, un fornello con su una caffettiera, una zuccheriera
+e parecchie tazze. Nel mezzo della stanza,
+una mensa. Son le prime ore del pomeriggio.*
+
+
+SCENA I.
+--------
+
+LUCIO, DON PAOLO, NORA, GIOVANNI *e* ZIEGLER.
+`````````````````````````````````````````````
+
+
+*(Essi stanno seduti intorno alla mensa. Don Paolo ha a destra Nora, a sinistra Ziegler. Lucio è alla destra di Nora. Giovanni è fra Lucio e Ziegler. Si è alla fine del pranzo. Si mangia la frutta. Si chiacchiera. Si beve. — Il fornello del caffè è acceso.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(sbuccia una mela e ne offre una fetta a Don
+Paolo.)* Un'altra fettina di mela, Don Paolo?
+
+[pg!228]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(condiscendente)* Un'altra fettina di mela. *(La
+prende e la mangia.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Ancora?!
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Lasciate fare! *(Ride)* Ah ah ah! Sono i piccoli
+vantaggi dell'innocuità.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Se c'è l'innocuità, non ci sono i vantaggi.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Dal vostro punto di vista è vero. Ma dal mio,
+*(ridendo)* ah ah ah!, è un altro paio di maniche.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Voi le avete larghe le maniche....
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+E me ne tengo! Sono misericordioso, io.
+
+[pg!229]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+La misericordia è stoffa a buon mercato. Si dice
+che anche il Signore Iddio se ne sia fatto un manto
+assai largo.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Che ne pensate voi, Don Paolo?
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Io penso... *(beve con voluttà un ultimo bicchiere
+di vino)* penso che con queste cose è meglio di non
+scherzare.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(a Giovanni e a Ziegler:)* Se voialtri non la finite
+con le vostre eresie!...
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Non andate in collera, Nora, chè in fondo poi,
+convenitene, sono un buon credente.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Sì, quando vi accomoda.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(per scansare quei discorsi)* Un sigaro chi me
+lo dà?
+
+[pg!230]
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Io.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Io.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Vediamo. *(Guarda e stringe tra le punte delle
+dita i due sigari.)* Scelgo questo e fumo quest'altro.
+*(Ridendo, se ne mette uno in tasca e uno
+in bocca)* Ah ah ah!
+
+.. class:: center
+
+| *(Tutti si alzano, eccetto Lucio.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(col viso alquanto acceso e le gambe alquanto dinoccolate)*
+Santa pazienza! Mi avete fatto mangiare
+e bere un po' troppo!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ed ora vi do una tazza del mio caffè.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Purchè non mi facciate perdere il treno come ieri.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(cavando dalla saccoccia una scatoletta di fiammiferi)*
+State tranquillo: terrò io d'occhio l'orologio.
+
+[pg!231]
+
+.. class:: center
+
+| :small-caps:`Ziegler, Giovanni, Don Paolo`
+
+*(accendono i loro sigari.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(smorzando la fiamma del fornello)* Lo brustolai
+io stessa, ieri sera....
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Lo sappiamo, perchè la vostra finestra era aperta
+e il fumo aromatico giungeva fin qui.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Moca e Portorico.... Sentirete.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(tuttora seduto, è assorto, co' pugni uniti sulla
+tavola e il mento sui pugni.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(lo guarda, gli si avvicina e gli sfiora il viso col
+gesto con cui si scacciano le mosche)* Ohè!...
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(sussultando)* Scusate, zio...
+
+[pg!232]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Ma che hai? Che hai?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ecco:... riflettevo che....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(interrompendo di proposito)* Don Paolo, dolce o
+amaro?
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Come il vostro cuore vi detta.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Allora dolcissimo.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(offrendo la tazza ricolma a Don Paolo)* A voi.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(saggiando subito col cucchiaino)* Perfetto!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Me la date anche a me una tazza di caffè?
+
+[pg!233]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(mescendolo agli altri)* È assai forte, Lucio. Coi
+vostri nervi!...
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Un sorso, almeno. Mi solleverà.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Un sorso, ve lo cedo io. *(Gli porge la propria
+tazza.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(se l'avvicina alle labbra, delicatamente.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(pianissimo, confabulando con Don Paolo.)* Insistete
+nella proposta di stamane. Fate che egli venga
+con voi in campagna. Il dottor Felsani dice che
+ciò è indispensabile....
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+E dice bene.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Lucio, credetemi, non è completamente guarito.
+
+[pg!234]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(sospirando)* Lo so. Lo vedo.
+
+.. class:: center
+
+| *(Restano pensosi, sorseggiando l'uno di fronte all'altro.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(a Lucio, che beve troppo caffè:)* Ma così compromettete
+il solito sonnellino del dopo pranzo.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Non importa.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(con severità gentile)* Basta, ora! *(E riprende la
+tazza.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Che avara!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+E giacchè siete così avara... io vi chiedo un'altra
+mezza tazza del vostro caffè.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Intemperante! *(Tentennando il capo, lo accontenta.)*
+
+[pg!235]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Avara! Avara!
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(chiama a sè Ziegler con gli occhi e gli dice qualcosa
+all'orecchio.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Eh! Senza di lei, egli si ammalerebbe peggio.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+E dunque?
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Con un pretesto qualsiasi, fate venire anche
+lei. Tanto, voi siete un prete di spirito....
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Ma quella è una donna di carne!
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Per Lucio non è che di aria.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+E buon pro gli faccia! *(Avendo finito di bere il
+caffè, sta per riporre la tazza.)*
+
+[pg!236]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(cerimoniosamente, gliela toglie di mano e la posa.)*
+Contro chi congiurate voi due?
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Contro chi? Posso dirlo? Posso dirlo? *(Con uno
+slancio di franchezza)* Contro il vostro amico Lucio...
+e anche un po' contro di voi.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Oh! Oh! Sentiamo.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(dopo breve esitazione)* Be'!... Bisogna decisamente
+accettare il mio invito. In campagna, caro
+nipote, in campagna!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+.. container:: noindent
+
+   *(di scatto)* No, zio, ve l'ho già detto: in campagna
+   con voi, non ci vengo!
+
+   *(Un silenzio. Tutti sono imbarazzati. Nora arrossisce.
+   Lucio tenta invano di dissimulare il suo
+   turbamento. Ziegler fa segno a Don Paolo di non
+   preoccuparsene e di andare avanti.)*
+
+[pg!237]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(risoluto)* Sentite, ragazzi miei. Io ho il vago sospetto
+che, oramai, la città sia diventata l'anticamera
+del manicomio.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(ha un involontario movimento di pena.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(vorrebbe avvertire Don Paolo di mutar tono.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(non intende e continua)* Ah! In città ci ho vissuto
+anche io e ci ho fatta la mia educazione....
+E che educazione! Ma erano altri tempi, e, quando
+mi ritirai in villaggio, portai con me tale una provvista
+di saviezza da seminarne largamente le mie
+campagne affinchè germogliasse nel buon concime
+del cretinismo campagnuolo. Ahimè! Mi accorgo
+che il cervello cittadino è deperito. La civiltà è
+una sua eterna debitrice, perchè non rende tutto
+ciò che esso le dà. Certo, da quel pastore alla buona
+che sono... *(guarda tutti e continua un po' comicamente)*...
+o, se vi piace meglio, da quel pretaccio
+esperto che sono..., parecchie stranezze ho creduto
+possibili sotto la cappa del cielo, ma quella
+che m'è capitato di vedere venendo a fare una visita
+a mio nipote dopo tanti anni, no, non l'ho
+creduta e non avrei potuto crederla possibile mai!
+*(Pausa. — Con le dita si allarga il colletto che gli
+dà fastidio.)* È inutile, veh!, che mi facciate quei
+[pg!238]
+visi lunghi... Voglio parlare, io, e parlare franco...
+E voglio dire tutto quello che penso... N'avrei il
+diritto, anzi il dovere, santa pazienza!, pure se quel
+vinetto, di cui m'avete fatto bere più del necessario,
+non mi sciogliesse ora lo scilinguagnolo. Oh
+bella!... Credevo d'avere per nipote un medico e
+trovo invece un capitale nemico della medicina. E
+sin qui, *transeat*: non è di questo che mi affliggo.
+Credevo di avere per nipote un giovanotto vivace,
+allegro, che magari corresse la cavallina, come,
+purtroppo, alla sua età faceva la buon'anima di
+suo padre, e invece trovo un ipocondriaco misterioso,
+un asceta andato a male, un malinconico
+contemplatore di non so che cosa. Credevo di avere
+per nipote un uomo abituato e indurito a tutte
+le tempeste di questa vitaccia, e non trovo che un
+naufrago avviticchiato a uno scoglio; il quale scoglio
+non si chiama con nessuno dei nomi che, più
+o meno, affidano. Esso non è nè il matrimonio, nè
+il celibato; non è nè la catena coniugale, nè la libertà
+individuale; non è nè la virtù, nè il vizio;
+non è nè l'amore legittimo, nè quello illegittimo.
+E sapete che cosa è?... È semplicemente una anomalia!
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(tirandogli di nascosto la sottana)* Don Paolo!
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Sì, sì, una anomalia: lo ripeto e lo sostengo.
+Ammettiamo perfino un'amicizia fraterna, a base
+di gratitudine o di qualcosa di simile, fra un uomo
+a ventotto anni e una donna a ventiquattro. Uno
+[pg!239]
+scetticone sorriderebbe d'incredulità, e io no, non
+sorrido, perchè non sono scettico e mi piace ancora
+di credere nella bontà umana. Ma quando questo
+uomo e questa donna non vogliono o non possono
+più districarsi l'uno dall'altra, quando essi s'innestano,
+si cuciono fra loro a fil doppio per respirare
+la stessa aria, per dire le stesse parole, per vivere
+la stessa vita, ah! santa pazienza!, quest'amicizia
+fraterna, se non è una finzione, è una cosa sciocca,
+effimera e mostruosa!
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(gli tira di nuovo la sottana.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Che bisogno c'è di pizzicarmi ogni tanto la sottana?...
+Credete che io non intenda il suono delle
+mie parole?... Vi porto un po' del mio ossigeno.
+Se non vi entra nei polmoni, di chi è la colpa?
+Del resto, quello che ho detto, ho detto. Non ci
+pensiamo più.... Io desidero soltanto — e questo soltanto
+volevo assodare — che Lucio venga a star
+qualche tempo con me, lì, in campagna, dove la natura
+si sviluppa sinceramente in tutta la sua semplicità,
+dove anche il semplice spettacolo della vegetazione
+rigogliosa risolve i problemi più complicati
+e più astrusi e concilia l'umanità un po' con
+Dio e un po' con sè stessa. Ci siamo intesi?
+
+.. class:: center
+
+| *(Un silenzio. — Tutti guardano a terra.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(dimena il capo, dicendo quasi fra sè:)* Pare di
+[pg!240]
+no! *(Sbuffa e si gratta il mento. — Mentre parlava,
+il sigaro gli si è smorzato fra le dita. E ora se lo
+ficca in bocca come per fumare e con le labbra lo
+tormenta.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(cavando di tasca la scatola di fiammiferi)* Volete
+accendere, Don Paolo?
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(scattando)* Ma che accendere! I vostri sigari non
+tirano! Via! Via anche il sigaro! *(Lo getta a terra
+con violenza. — Poi, paziente)* Signorina Nora, voi
+mi sembrate una brava ragazza... e le parole che
+mi sono uscite di bocca..., ammesso che non fossero
+tutte piacevoli..., voi le avete già dimenticate.
+Siete persuasa d'essere quasi una sorella d'adozione
+di Lucio? Ed io precisamente alla sorella di lui
+mi rivolgo. Esortatelo voi a raggiungermi in campagna...
+e, giacchè... in casa mia non debbo render
+conto a nessuno..., voi, che siete una donnina
+emancipata, voi sua amica, sua sorella, se vi degnate
+d'accettare il mio invito, verrete a tenergli
+compagnia... proprio come fate qui, e così, in un'opera
+saggia, vi unirete a me, che diventerò, naturalmente,
+un vostro zio... nei modo che meglio piacerà
+alla Provvidenza. Quanto all'occhio del mondo,
+non ve ne date pena. Dirò... dirò... che siete
+proprio una parente. E poi, lassù, in villaggio, tutto
+il mio mondo è composto di quattro persone: il
+solito farmacista, il medico condotto, la mia pupilla
+e il suo fidanzato; e questo mondo, capirete,...
+ha l'occhio che voglio io. *(Ride)* Ah ah ah ah ah!
+Ecco qua, torno a ridere, finalmente. Si dice che io
+[pg!241]
+rida troppo spesso.... Eppure, lo vedete, quando
+mi accade di parlare senza ridere, arreco fastidio
+alle orecchie e do ai nervi come... come un trombone
+che voglia farla da flautino. Viva il buon
+umore, dunque, viva l'allegria!
+
+.. vspace:: 1
+
+.. class:: center
+
+*(Tutti sono evidentemente preoccupati, e, come dianzi,
+guardano a terra, tacendo.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Viva l'alle...gria!... Eh!... difatti... non si potrebbe
+immaginare un'allegria più allegra di questa!
+*(Sbuffa.)*
+
+.. class:: center
+
+| *(Ancora un silenzio.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(consulta il suo orologio, ed è felice di trovare un
+pretesto per risolvere la quistione)* Don Paolo, se
+non volete perdere il treno, è ora.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Oh, tanto meglio! La mia roba dov'è?... Dov'è?
+
+.. class:: center
+
+| :small-caps:`Nora, Giovanni` *e* :small-caps:`Ziegler`
+
+*(si affrettano a dargli chi il cappello, chi il mantello,
+chi la sacca da viaggio.)*
+
+[pg!242]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Ecco.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ecco.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Ecco.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Vi accompagneremo tutti alla stazione!
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(irritato)* Grazie tante! Non voglio accompagnamenti!
+*(Si mette mantello e cappello.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+E noi vogliamo accompagnarvi.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+E io ve lo proibisco.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Ma perchè?
+
+[pg!243]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Si accompagnano i morti, non i vivi. Addio!...
+Addio!... *(Con fretta esagerata, fa per andare.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(chiamandolo:)* Zio Paolo....
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(fermandosi)* Eh?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ebbene..., sì:... ci verrò in campagna con voi.
+Avete ragione... Ne avrò giovamento... Credo che
+anche la... signorina Nora accetti il vostro invito...
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(titubante)*... Senza dubbio.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(ritornando)* Oh, che il Signore sia lodato! È
+uscito il sole! È uscito il sole!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(animandosi)* Domani, col penultimo treno, vi
+piomberemo addosso.
+
+[pg!244]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Bravi! *(A Giovanni e a Ziegler)* E questi birboni?...
+Venite, venite anche voialtri... Il signor Giovanni
+porterà i suoi pennelli, il signor Ziegler porterà il
+suo violino.... E dipingeremo, suoneremo, balleremo....
+*(Ridendo)* Ah ah ah! Ci ho posto per tutti,
+che credete?
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(con istantanea malinconia)* Grazie, Don Paolo,
+ma io non posso....
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(a Giovanni:)* E, voi,... Don Giovanni?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Io... per lo meno verrò sin là a consegnarveli
+tutti e due sani e salvi.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+E ogni promessa è un debito.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Presto, presto. Don Paolo!... Il treno non vi
+aspetta mica.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(festosamente)* A domani, dunque.
+
+[pg!245]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+A domani, zio.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+A domani.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+A domani.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Buon viaggio!
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Buona permanenza! *(S'avvia per uscire.)*
+
+.. class:: center
+
+| *(Tutti lo seguono vociferando rumorosamente.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(ostentando una celia)* Io poi da voi, un giorno
+o l'altro, ci verrò, ma di nascosto.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(uscendo)* Insieme col violino, beninteso....
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Sì, per portare una serenata alla vostra pupilla.
+
+[pg!246]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(la cui voce s'allontana)* Quella lì non è pane
+pei denti vostri. *(Ride)* Ah ah ah ah!
+
+.. class:: center
+
+| *(Continuano i saluti, che si confondono con la risata di Don Paolo:)*
+
+.. container:: noindent
+
+   — Arrivederci.
+
+   — Arrivederci.
+
+   — A domani.
+
+   — Buon viaggio! Buon viaggio!
+
+
+SCENA II.
+---------
+
+LUCIO, GIOVANNI, ZIEGLER *e* NORA.
+``````````````````````````````````
+
+
+.. class:: center
+
+| *(rientrano, chiacchierando.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Ecco un uomo che ha parecchie dita di cervello.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+È buono. *(Si accinge a sparecchiare la tavola.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Intelligente, soprattutto.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Nora!... Che fate? Più tardi verrà la serva.
+
+[pg!247]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non è piacevole veder la tavola in disordine,
+dopo pranzo. *(Continua a sparecchiare con l'aria
+di una persona di casa.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Allora, vi aiuto io.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Bene! Aiutatemi.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(si affaccenda anche lui, sparecchiando.)*
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(prendendo un libro che trova chiuso in un angolo
+della stanza, lo mostra a Lucio)* Se non vuoi
+leggerlo tu, passalo a Nora.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ma sì: sto leggendolo.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Ah?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Nè nuovo, nè interessante. Spencer rifritto. D'altronde!...
+
+[pg!248]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+«Spencer rifritto», s'intende. Senonchè, devi notare....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(interrompendo con vivacità)* Non deve notar
+niente....
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(seguitando con la stessa intonazione di lei)* Perchè,
+dopo pranzo, la roba rifritta... Non so se mi spiego!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(piegando la tovaglia, ne tiene due punte nelle
+mani con le braccia tese, e ha il mento abbassata
+sul lembo superiore, giusto nel mezzo.)*
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(a un tratto, fissandola)* Ferma, ferma così, Nora!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Cos'è?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Ferma così, ve ne prego. *(Cava di tasca un album.)*
+
+[pg!249]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ma che vi piglia?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+È una posa originalissima! Ve ne faccio lo schizzo.
+Aspettate. *(Comincia a disegnare.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(immobile)* Io mi stancherò.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(disegnando)* Immaginatevi di stare dinanzi a uno
+specchio e non vi stancherete.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Questo non lo potete dire, perchè in casa mia ho
+abolito gli specchi.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(con soddisfazione)* Brava!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Avete fatto malissimo!
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(mirando Nora e imitando col pollice della destra
+un gesto da pittore)* Sì, sì: è un quadretto.
+
+[pg!250]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Con questa tovaglia in mano?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Tovaglia?... Quella potrebbe essere... un velo,
+una stoffa antica, non so,... una specie di breve
+siparietto simbolico... A me preme *la linea* che voi
+mi date.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Via, ti dà pochino!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(tuttora disegnando)* Meravigliosa.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Nientemeno?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(impaziente)* Ah!...
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(vede il disegno di Giovanni e malinconicamente
+esclama:)* Come t'invidio!
+
+[pg!251]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Vorresti saper mettere questi pochi segni sulla
+carta?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+No, non mi basterebbe. Anche, vorrei sentirne
+la compiacenza che ti leggo negli occhi. Sai precisamente
+che cosa t'invidio? T'invidio questo culto
+della forma che io non ho e che non voglio avere.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Se non vuoi averlo, perchè me lo invidii?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non ne posso più, Giovanni!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Un momentino ancora.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(a Giovanni:)* Non mi capisci, non mi capisci. Io
+non voglio averlo, e intendo perfettamente che mi
+privo d'un diletto.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(sincero, con entusiasmo)* D'un grande diletto!
+
+[pg!252]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Eppure, è così. Se su quella carta tu componessi
+le sembianze d'una qualunque altra donna, invece
+che le sembianze di Nora, per me sarebbe lo stesso.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+È fatto, sì o no?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Non è fatto, *(sorridendo)* perchè io non sono mica
+un pittore da *cafè-concert*, di quelli che improvvisano
+in cinque minuti il ritratto capovolto di Garibaldi
+o di Bismark. Ho preso qualche appunto....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(gettando via la tovaglia e andando verso Giovanni)*
+Vedere.
+
+.. class:: center
+
+| *(Tutti guardano lo schizzo.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Ci è! Ci è!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ci sono?
+
+[pg!253]
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Oh, altro!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(chiudendo l'album)* Ma che! Non ci siete niente
+affatto.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E dunque?!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Dunque, fiasco. E sfido io! Con la sua impazienza!...
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+No, non mi capisci. Intendo dire che a cento piccole
+circostanze accidentali è connesso ciò che un
+pittore chiama *linea* o *colore* e che io chiamo...
+parvenza: ciò che, insomma, colpisce più o meno
+i nostri sensi. Tutto quello che riproduce questa
+parvenza è problematico, è sfuggente, è fittizio, è
+incerto... come la parvenza stessa.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(dà un'occhiata significativa a Giovanni e a Nora.)*
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(a Lucio, per non contraddirlo:)* Sì, sì.
+
+[pg!254]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(celiando a malincuore per cambiar discorso)* Vi
+prometto, Giovanni, che un'altra volta, sparecchiando
+una tavola, vi ispirerò un capolavoro.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(guardandoli)* E già! Io ho detto una scioccheria,
+come di solito.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Tutt'altro!
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Si fa una partita a scopone? Siamo in numero....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ah! Voi credete che io non mi accorga che mi
+trattate come un pazzo o come uno scimunito?
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Che ti salta in mente adesso?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Anche zio Paolo crede che io non abbia la testa
+a posto.
+
+[pg!255]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Scherzava.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(animandosi)* Scherzava? E voialtri?
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Ma noi! Noi!... Noi — giacchè lo vuoi sapere — non
+facciamo che evitare le conversazioni troppo
+astruse che da qualche tempo ti seducono e che
+tutti coloro i quali ti vogliono bene credono... molto
+inopportune! Mio Dio! Perchè dobbiamo romperci
+il capo con tanti discernimenti paradossali e stiracchiati?
+Quanto a me, non stiracchio che le
+corde del mio violino, ed è perciò che esse si spezzano
+così spesso. Che, del resto, la vita me la piglio
+com'è — benchè non sia sempre di mio gusto, te
+io assicuro io — e desidererei che anche tu, che
+diamine!, non ti prendessi la briga di capovolgere
+l'umanità e di trasformare il mondo. Ascolta il consiglio
+mio: facciamo una partita a scopone, che è
+più semplice.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Facciamola! Facciamola!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Capovolgere l'umanità? Trasformare il mondo?
+Io non voglio capovolgere nulla. Non voglio trasformare
+nulla! *(Accalorandosi)* Ho le mie idee,
+[pg!256]
+ho le mie convinzioni e non ci rinunzio. E quando
+vedo che appunto per una mia idea manifestata
+alla buona, senza nessuna pretesa, incidentalmente,
+voialtri vi turbate, v'impensierite come se io
+avessi detto chi sa che cosa orribilmente strana,
+*(tutto vibrante nella persona e nella voce)* e mi
+spezzate la parola in bocca e m'impedite di parlare
+con pretesti puerili, io mi cruccio, io mi addoloro,
+io mi irrito, perchè mi pare che vogliate strapparmi
+il pensiero dal cervello, come se per strappare
+questo pensiero bastasse sopprimere la parola; e
+mi pare che vogliate esercitare su me un falso diritto,
+sì, un diritto che non avete e non potete
+avere. Io vivo *dentro di me* una vita che non ha
+niente di comune con tutto quello che attrae gli
+altri, una vita che non subisce influenze esteriori e
+non subisce la volontà altrui! Non mi importunate,
+dunque, non mi opprimete.... Lasciatemi vivere a
+modo mio... Lasciatemi tranquillo... *(Emozionato,
+affaticato, cade a sedere ansimando)* Lasciatemi
+tranquillo.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(umile, affettuoso)* Ma, abbi pazienza, Lucio, a
+che proposito tutta questa sovraeccitazione?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(con lo stesso tono)* Difatti... chi è che crede di
+avere dei diritti sull'animo tuo?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Nessuno! Nessuno!
+
+[pg!257]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(pentito, stringendosi la testa fra le mani)* Ho
+torto. Perdonatemi. Io mi eccito per un nonnulla....
+E, con voi, proprio non dovrei. Siete così buoni.
+Mi perdonate, Nora?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Di che?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+... Sì.... Sono un po' eccitabile... un po' nervoso...
+I primi giorni di primavera mi fanno questo effetto....
+E ora poi... ecco... mi pare di aver sonno....
+Vedete, Nora, che avete calunniato il vostro
+caffè. Stanotte, già, ho dormito male.... Riposerò
+un poco... Mi permettete? *(S'avvia verso la porta
+a sinistra.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Ti pare!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+È bene che tu riposi.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Se ve ne andate tutti, consegnate la chiave giù
+al portinaio, per la serva.
+
+[pg!258]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ma no, io resterò ancora. A casa non ho nulla
+da fare.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Allora, arrivederci presto. Mi basterà di riposare
+una diecina di minuti.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(esortandolo)* Un po' di più.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Lo sapete... non mi piace di dormire, perchè io
+diffido del sonno. *(Esce ripetendo quasi fra sè:)*
+No... non mi piace di dormire... non mi piace....
+
+
+SCENA III.
+----------
+
+GIOVANNI, ZIEGLER e NORA.
+`````````````````````````
+
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(prende il cappello e la custodia del violino e dice
+a Giovanni, sottolineando le parole:)* Andiamo, eh?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Sì, andatevene anche voi, Giovanni.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Grazie della premura!
+[pg!259]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Credevo....
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Di farmi piacere?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Che so!...
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Mi scacciate?
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Vieni via! Che stai a fare lì?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Noioso!
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Va bene: «noioso». *(Pausa)* Addio, Nora.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ci si vedrà, domani?
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Ma ci andate davvero da don Paolo?
+
+[pg!260]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(preoccupata)* Se le mie allieve me lo permetteranno.
+E voi?
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Io l'ho detto che non posso.... E invece chi sa
+ch'io non vada più lontano....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Dove?
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Lassù: a Colonia..., dal mio vecchio nonno che
+ho appena conosciuto e che sempre mi scrive di
+volermi vedere prima di morire.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Che novità è questa?
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+La morte non è una novità. Basta: domani verrò
+a salutarvi o qui o alla stazione. *(Si avvicina a
+Giovanni, e, battendogli la mano sulla spalla, gli
+dice quasi sul serio:)* Con te, poi, faremo i conti!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(con vivace risentimento)* Noioso! Noioso!
+
+[pg!261]
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(con vivace e sincera acredine)* Io, noioso. Ma
+tu... qualche cosa di peggio!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(infastidito)* Ziegler!
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(padroneggiandosi)* Niente, niente.... Scherzavo....
+Di nuovo, Nora, arrivederci.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Veniteci a salutare, vi raccomando.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Sì, sì, non dubitate. *(Esce.)*
+
+
+SCENA IV.
+---------
+
+NORA *e* GIOVANNI.
+``````````````````
+
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(dopo un silenzio)* Ziegler è innamorato.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non credo.
+
+[pg!262]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+È innamorato di voi.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+No.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Una volta, prima che vi conoscessi, lo ha confessato
+a me. Oggi, forse, non lo confesserebbe neppure
+a sè stesso.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Dice sempre che gli uomini brutti come lui non
+devono innamorarsi.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+E questo che significa? Significa che c'è capitato.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Me ne sarei accorta.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Non vedete ch'egli stenta a dissimulare la sua
+sofferenza? Non vedete che è geloso?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Di chi?
+
+[pg!263]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Ah, non di Lucio, beninteso! Di me.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Giudicate assai male! Ziegler è d'una delicatezza
+singolare, e, se è geloso, come voi dite, non lo è
+che per conto di Lucio.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Questo soddisfa la sua coscienza d'uomo buono
+e modesto, ma in fondo egli non può esser geloso
+per conto di un uomo che vuole esservi fratello....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Fratello?... Ziegler comprende bene che il povero
+Lucio è vittima d'un equivoco creato dalle
+sue fisime spirituali,... dalla sua mente malata....
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Avete voi la convinzione che quello di Lucio non
+sia un affetto fraterno?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ne ho la convinzione.
+
+[pg!264]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Ah no! Siete voi che, per farmi indietreggiare,
+mi minacciate il rimorso. E siete voi che a forza
+volete persuadermi che il mio amore è una perfida
+insidia.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Una perfida insidia non è, o, almeno, non è una
+insidia premeditata. Di ciò io sono sicura, Giovanni.
+Ma è certamente un errore. Un errore che colpisce
+un'esistenza cara a voi ed a me....
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Ed ecco la minaccia del rimorso!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+A prescindere dal vostro rimorso, c'è un'altra
+circostanza che dovete ben valutare, ed è questa:
+*(energicamente)* io non voglio che mi amiate.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Non è vero!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Io non vi amo.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Non è vero!
+
+[pg!265]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Io amo Lucio.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Non è vero!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(con un impeto di esasperazione)* Ma perchè non
+è vero?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(dopo un breve silenzio)* Se lo amaste veramente,
+voi, senza avvedervene, lo sottrarreste all'equivoco,
+ammesso che in lui l'equivoco ci sia. Che sappiate
+essere un'eroina non ne dubito....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Parlate piano....
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Non dubito che sappiate sacrificarvi a un'Idea,
+che sappiate sacrificarvi a qualche cosa che voi
+medesima non potete determinare e che è, secondo
+me, l'illusione indefinibile con cui le creature migliori
+vorrebbero ribellarsi alle necessità della vita
+reale. Egli, oh!, è più illuso di voi. Voi non fate
+che seguirlo, che secondarlo docilmente; e voi confondete
+[pg!266]
+la docilità vostra con l'amore.... Ah! Nora!...
+volete che ve lo dimostri?... Datemi la mano...
+*(Le prende una mano.)* Così!... Lo sentite
+quello che c'è qui dentro, in questo sangue, in
+queste fibre?... Lo sentite voi questo *contatto*?...
+Lo sentite? Sì. Sì. Ebbene, ciò che provo io mentre
+la mia mano stringe la vostra, è lo stesso di
+ciò che provate voi. E questa è la Realtà, Nora,
+questa è la Realtà unica, ineluttabile. Non ce n'è
+un'altra. Fuori di essa non c'è che il sogno, non
+c'è che l'inganno della fantasia. Sognando, voi potrete
+ancora ripetermi: «non voglio che mi amiate»;
+ma io, io che non saprò mai sognare, vi ripeterò
+mille volte: non è vero, non è vero!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(umilmente)*.... E basta, adesso!... Basta! *(Con
+un intimo sforzo energico libera la sua mano da
+quella di Giovanni.)*
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Sì, basta.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(scossa, perplessa, timida, e simulando disinvoltura,
+va a guardare all'uscio della camera di Lucio.)*
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Dorme?
+
+[pg!267]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Pare. *(Pausa)* Ed ora, andatevene, ve ne prego.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Me ne vado. *(Piglia il cappello e s'avvia.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Prima però debbo chiedervi un favore.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Dite.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non venite in campagna, Giovanni!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Ho promesso al prete di accompagnarvi fin là.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ma non ci resterete?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(con lieve sorriso tra di sodisfazione e di rassegnazione)*
+Non ci resterò.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ve ne ringrazio.
+
+[pg!268]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(sùbito)* Dunque, confessate?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non confesso niente.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+E perchè mi avete chiesto ch'io non resti con
+voi? Perchè mi ringraziate?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Perchè è ridicolo che tanta gente estranea piombi
+in casa di quel brav'uomo.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+V'affaticate continuamente a negare il vostro pensiero.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(con rabbia)* Per carità, Giovanni, finitela!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+La mia presenza, lì, in campagna, vi annoierebbe?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Sì.
+
+[pg!269]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Molto vi annoierebbe?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Sì, molto.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Fino a riuscirvi insopportabile?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Fino a riuscirmi odiosa!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(incalzando)* E la ragione? La ragione?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(severa)* La ragione è che voi siete un egoista.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Lo vedete: siamo da capo. Questa per me è una
+confessione. *(Pianissimo, insinuante)* Voi temete
+che l'egoismo mio — quello che voi chiamate così — vi
+faccia abdicare al vostro eroismo. *(All'orecchio
+di lei)* Voi temete di diventare una egoista come
+me... Senza contare, poi, che, essendo egoisti in
+due, non lo saremmo più nè io nè voi,... senza
+contare che io potrò essere necessario alla vostra
+vita come già voi siete necessaria alla mia.
+
+[pg!270]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+No, Giovanni: voi siete un uomo quasi felice,
+voi non avete bisogno di me. Egli, invece, egli è
+un infermo, è un infelice....
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+È un infelice perchè non vi ama! Quale che sia
+la mia amicizia per lui, dovrò io cedergli un tesoro
+che egli non vuole avere? Non vi ama, o non
+può o non sa amarvi, o sa amarvi male.... È lo
+stesso. Ma io, io vi *amo bene*, vi amo completamente,
+vi amo tutta, e nell'ordine naturale delle
+cose umane il vostro amante devo essere io....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(con dolcezza implorante)* Giovanni, sono tanto
+stanca d'ascoltarvi....
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(continuando)* Devo essere io: e nessun proponimento
+sublime, badate, nessun ragionamento,
+nessuna idealità, possono opporsi a questa affinità
+sincera, che tende ad unirci....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Sono stanca d'ascoltarvi....
+
+[pg!271]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(conchiudendo)*... e contro di essa, Nora, è inutile
+combattere!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Andatevene.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+È inutile!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Andatevene.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Sì. *(La guarda ancora assai dappresso. Poi, rapidamente,
+esce.)*
+
+
+SCENA V.
+--------
+
+NORA, *indi* LUCIO.
+```````````````````
+
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(è profondamente turbata. Appare dubbiosa, trepidante.
+Sembra voglia sottrarsi al suo tormento.
+Risoluta, piglia di su una seggiola il suo cappello
+e infila la porta in fondo.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(entra in tempo, e, vedendola uscire, la chiama:)*
+Nora!
+
+[pg!272]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(fermandosi)* Oh, Lucio!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Non mi avevate detto...?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Che sarei rimasta? Sì, ma poi... *(ritornando)* ho
+pensato di anticipare la mia lezione alla piccola
+Vannuzzi, e giacchè dormivate....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Dormendo, però, ho sentito che voi stavate per
+uscire....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Davvero?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E mi sono svegliato di soprassalto. Ho dormito
+molto?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Un quarto d'ora, credo....
+
+[pg!273]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ah? Solamente?... *(Un silenzio. )* Avete un po'
+letto, intanto, questo libro che Giovanni mi ha imposto?
+*(Indica il libro.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+In verità, non me n'è venuta l'idea...,
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Meglio. *(Con disgusto)* Figuratevi! È il libro d'uno
+scienziato: un poveretto, che, come tanti altri,
+non si accorge d'avere una benda sugli occhi, e
+gira, gira intorno ad una tavola convinto d'andar
+dritto e molto lontano. Quando è stanco, si ferma,
+dicendo: *sono arrivato!* Ma dov'è arrivato, se si
+trova allo stesso punto dal quale era partito? *(Un
+silenzio.)* Volevo dirvi.... No, no.... Parleremo stasera.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Parliamo adesso.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E la piccola Vannuzzi?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Aspetterà.
+
+[pg!274]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+... Una semplice domanda volevo farvi.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Fatela.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(Pensa. Indi le si avvicina, quasi con circospezione)*
+È poi così strano che un uomo e una donna
+siano legati da un sentimento d'amicizia più forte
+di quello che si chiama l'*Amore*?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non è strano.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+È un'anomalìa che il grande affetto per una creatura
+purissima si astragga dalle attrattive che accomunano
+lei, suo malgrado, a tutta una folla di
+femmine?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Certamente no.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ecco... Voi potete comprendermi, soltanto voi...
+Io non voglio trasformare il mondo, come mi dice
+Ziegler. Io cerco, bensì, di non attaccarmi a ciò
+[pg!275]
+che esso ha di più tangibile, di più precario, di
+più caduco...
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(secondandolo)*... e di meno bello!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Benissimo!... «Di meno bello!» *(Riflettendo)*
+Se di una donna si amano *(analizzandola senza volere)*
+gli occhi, i capelli, la bocca... tutto quanto costituisce
+le sue prerogative appariscenti, il suo fascino
+materiale, che garanzia ha questo amore? Nessuna.
+Il fascino materiale può esaurirsi a poco a
+poco, o può cessare a un tratto per mille ragioni, e
+allora che resta? Niente. E considerate a quali circostanze,
+a quali innumerevoli vicende è sottoposta la
+nostra carne. E debbono esse mutare o diminuire o
+distruggere il nostro affetto? E c'è di più. Una momentanea
+condizione morbosa, un fatto eccezionale,
+che so io?, un fenomeno fisiologico, un caso accidentale
+qualunque può lasciare senza difesa il corpo
+di una donna... anche d'una donna sublime!,
+può spingerlo, può trascinarlo in un istante solo
+alla perdizione; e noi vorremmo concentrare in esso
+le speranze, i desideri, le aspirazioni, le esigenze,
+le soddisfazioni del nostro essere?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(vivissimamente)* No! no!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E dunque, perchè mi si dà del pazzo?
+
+[pg!276]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(timidamente)* Perchè... perchè siete *diverso* dagli
+altri.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E voi pure siete diversa dalle altre.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Io?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Così diversa che proprio voi con la vostra assistenza
+avete saputo impedire che dal palpito di
+questa seconda vita ch'io vivo risorgesse in me
+l'uomo spregevole, fatto — come gli altri — di vecchie
+volgarità! E non, forse, proprio voi vorrete,
+ancora, ancora, e sempre, ch'esso non risorga?...
+*(Pausa.)* Norina, io sarei oramai felice, felice della
+redenzione, felice della perfezione, se non avessi
+un'intima paura: *(confessandosi)* la paura di tornare
+indietro. Il giorno in cui la nostra amicizia *(con
+terrore)* diventasse amore, io sarei perduto! È vero,
+avrei la vostra bellezza, questa bellezza giovane, piena
+di grazie e piena di misteri; ma per quanto tempo
+l'avrei? E in essa che cosa troverei di durevole e di
+sicuro per la mia felicità, che cosa troverei di benefico
+per il mio spirito?... No, no, no! Ciò non sarà!
+È necessario che ciò non sia. E voi, Nora, mi aiuterete.
+Mi aiuterete a non guastare quello che insieme
+[pg!277]
+abbiamo voluto, quello che insieme abbiamo
+creato. Voi, voi mi aiuterete! *(Tace assorto.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(si nasconde la faccia fra le mani e piange senza
+singhiozzare.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(quando s'accorge che ella piange, soavemente le
+solleva la testa)* Norina? Che è?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(piangendo)* Nulla. Noi donne... esprimiamo...
+con le lagrime tante cose che non sappiamo dire
+con le parole....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(contemplandola)* Già!... Tante cose!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(si calma, si asciuga gli occhi, sorride)* E questo
+è tutto.
+
+.. class:: center
+
+| *(Una violenta scampanellata li scuote.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Eh, che maniera! *(Esce dal fondo.)*
+
+[pg!278]
+
+
+SCENA VI.
+---------
+
+NORA, LUCIO, ZIEGLER.
+`````````````````````
+
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(di dentro, annunziando)* È Ziegler. *(Poi, rientrando
+con lui)* Che hai? Sei pallido, sconvolto....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(ansiosa)* Che vi è accaduto, Ziegler?
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(ha il volto bianco, la voce tremolante)* Son venuto
+appunto per dirvelo.... Ma non vi spaventate.
+Un incidente piuttosto grave....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Mio Dio! Dite!
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Ho litigato con Giovanni.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(impressionata)* Oh!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E come?!
+
+[pg!279]
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+L'ho incontrato quaggiù per caso.... Anzi, no....
+Con voi non voglio mentire.... Ho cercato apposta
+di incontrarlo... perchè dovevo parlargli molto sul
+serio....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Di che?
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Questo è inutile che lo sappiate. In sostanza, gli
+ho rivolta una preghiera... per un fatto che assai
+mi stava a cuore... *(con forza)* ma che non riguardava
+me, ve lo giuro! E il suo contegno, vedete,
+è stato tale che io ho perduto la mia calma abituale...
+e ho pronunciato parole durissime.... Sì,
+ne convengo, gli ho detto cose orribili, orribili!,
+che hanno fatto male più a me che a lui. *(Disperandosi)*
+Fra due compagni che si dividono la camera
+e il pranzo, fra due vecchi amici come noi!...
+Capite!?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(ascolta, intende, allibisce, e si concentra in sè
+stessa.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ma calmati, ora.... Non esagerare. Che diavolo!
+Giacchè tu riconosci d'aver ecceduto, andrai lealmente
+da lui. Ci andremo insieme, se vuoi.... O lo
+[pg!280]
+pregherò di venire qui, da me. Insomma, con un
+po' di buona volontà aggiusteremo tutto.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+No, non aggiusteremo niente. Per quanto concerne
+le formalità, gli ho già fatte le scuse prima
+di separarci. Le formalità non mi preoccupano. Ma
+quel che ho detto, purtroppo, io lo penso!... Io lo
+penso!... Ed è perciò che ne sono torturato. Oramai,
+non c'è rimedio. E, tant'è, Giovanni ed io non
+saremo più amici, e probabilmente... non ci vedremo
+più.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Nientedimeno!
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Sì, ho deciso di partire stasera.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Partire stasera? Va là! Il litigare con un compagno
+è senza dubbio molto doloroso, ma non si
+parte per questo.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Avevo già il progetto d'andarmene per qualche
+tempo a Colonia, da mio nonno che mi chiama
+presso di sè.... Voi lo sapete, Nora....
+
+[pg!281]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+È vero, sì, lo sapevo....
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+E dopo quello che è accaduto, ho presa una risoluzione
+definitiva.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Va bene:... del tuo progetto avevi parlato anche
+a me. Ma partire così, da un momento all'altro,...
+è stranissimo!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(sforzandosi)* Certo!...
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(con fermezza)* Ziegler, noi vogliamo che tu ci
+dica tutt'intera la verità....
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Una parte della verità... è quella che avete intesa.
+Ma la verità tutta intera... vi confesso che
+non la so neanche io.... Ho un'oppressione, un
+incubo..., un presentimento inesplicabile,... ed ho
+nelle orecchie, da dieci minuti in qua, una voce
+che mi dice: «Vattene, Ziegler! Vattene!...» E io
+me ne vado.
+
+[pg!282]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E tu sei l'uomo che ti pigli la vita come viene?
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(sorridendo malinconicamente)* E quando fra me
+e la mia vita c'è un'evidente incompatibilità, io,
+che non posso cambiare la vita, faccio il tentativo
+di cambiare me stesso.... Tenterò di ridiventare tedesco....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Aspetta almeno il nostro ritorno dalla campagna.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(scattando un po')* Il vostro ritorno? *(Poi, pentendosi
+dello scatto)* Che che! A certe risoluzioni
+non bisogna ripensare. Stasera! Stasera!... E senza
+altri addii, senza solennità!... Ci saluteremo adesso...
+così... allegramente... e *(s'interrompe, dà un'occhiata
+a Nora ed escogita un pretesto per allontanar
+Lucio)* ...A proposito, Lucio, prima di andarmene
+vorrei....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Che vorresti?
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Vorrei il manoscritto della mia *Tarantella grottesca*...,
+quella che suonai qui l'altro ieri.
+
+[pg!283]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Te lo portasti via.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+No!... Mi pare che lo conservasti tu, nella tua
+camera.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Vedrò, ma non credo.... *(Esce a sinistra.)*
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(a Nora, sùbito, parlando piano e concitato)* Scusatemi
+se mi son permesso di ricorrere all'espediente
+del manoscritto per potervi dire una parola
+da solo a sola. Nora, io ho fatto quanto mi era
+possibile per impedire che Giovanni commetta un'azione
+che ritengo ignobile.... Non ci sono riuscito,
+e *tutto* fatalmente accadrà!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non accadrà, Ziegler. Non deve accadere.
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Accadrà. *Egli* ne è sicuro.... Accadrà, ma io non
+sarò ne complice, nè spettatore.... Non ci resiste —
+
+[pg!284]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(ritornando)* Fra le mie carte non c'è. Io ricordo
+perfettamente che te lo portasti via....
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Allora, sarà così. *(Lunga pausa.)* Dunque, Lucio,
+noi ci separiamo. Ci separiamo forse per un paio
+d'anni,... forse per dieci anni... chi sa!... forse...
+per sempre! Dipenderà da molte circostanze.... Tu,
+tieniti su.... Hai capito?... Tieniti su! E, ti raccomando,
+cura la tua salute.... Questo è l'essenziale....
+*(Trattenendo le lagrime, lo abbraccia assai forte e
+lo bacia.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ziegler!... *(Con gli occhi rossi anche lui, penosamente)*
+Te ne vai davvero?...
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+A voi, Nora, nessuna raccomandazione. Ma salutiamoci
+bene. Qua la vostra mano....
+
+.. class:: center
+
+| :small-caps:`Nora` *e* :small-caps:`Ziegler`
+
+*(si stringono lungamente la mano.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(ha un brivido per tutto il corpo.)*
+
+[pg!285]
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+Di voi due sono stato... e continuerò ad essere
+amico.... Senonchè... da lontano *(la voce gli si
+rompe in gola)*... da lontano non potrò più far
+nulla per voi due.... *(Piangendo)* Nulla!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ziegler!...
+
+.. class:: center
+
+| :small-caps:`Ziegler`
+
+*(con uno sforzo)* Addio!... Addio! *(Ed esce.)*
+
+.. class:: center
+
+| :small-caps:`Lucio` *e* :small-caps:`Nora`
+
+*(restano sinistramente commossi, in silenzio.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(come invaso da un timor panico, quasi tremando)*
+Nora!...
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Lucio!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(lentamente)* È un triste fatto questa partenza....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(con la faccia bianca, con lo sguardo fisso a terra,
+scrolla il capo.)*
+
+.. class:: center
+
+| (:small-caps:`Sipario.`)
+
+[pg!286]
+
+
+
+
+ATTO TERZO.
+===========
+
+
+*Una grande stanza rustica e pittoresca. Un ambiente
+assai pulito. In fondo, verso destra, un'ampia
+porta a due battenti. Una parete s'inoltra di
+sbieco dal fondo, formando un angolo ottuso con
+un'altra parete più avanzata, nella quale s'apre
+un finestrone arcuato. Alla parete che s'inoltra di
+sbieco è addossata una scaletta comoda, per la quale
+si accede a un breve corridoio scoperto che sormonta
+l'arco del finestrone, e questo breve corridoio confina
+a sinistra con l'uscio del quartierino di Don Paolo.
+Giù, due porte a destra e due a sinistra, la seconda
+delle quali è quella della stanza di Rosa e càpita
+proprio sotto l'uscio di Don Paolo. Tavole,
+stipi, scansìe di noce, seggiole impagliate. Su qualcuna
+delle tavole, scodelle, tazze, coltelli, cucchiai,
+forchette, una caffettiera, delle frutta, dei pani, un
+vecchio lume di ottone. Qua e là alle pareti, immagini
+della Madonna e di qualche santo.*
+
+*È sera. Il lume è acceso. Entra un bel chiaro di
+luna attraverso le invetriate della finestra.*
+
+[pg!288]
+
+
+SCENA I.
+--------
+
+ROSA *e* GIUSTINO.
+``````````````````
+
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(rassetta e ripone negli stipi biancheria e altra
+roba, mostrandosi indispettita.)*
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+*(ha un garofano in petto ed è seduto sull'angolo
+d'una tavola, zufolando e facendo dondolare lo
+gambe.)*
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(a un tratto)* Vuoi?
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+*(stizzoso)* No.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Crepa.
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+*(continua a zufolare, poi s'interrompe:)* E sai perchè
+non voglio dartelo? Perchè quando mi pigli
+per un traditore io faccio tanta bile in corpo che
+vorrei crepare davvero.
+
+[pg!289]
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Buono per te.
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+E per te, no? Ti mariteresti con un altro.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Con chi?
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+Non avresti che a scegliere. Don Paolo ti fa la
+dote.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+E tu per la dote mi sposi?
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+Io ti sposo perchè mi piaci.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Quand'è così, dammi quel garofano.
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+Te lo do se mi giuri che non sospetti più.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Lo portava oggi nei capelli Teresina.
+
+[pg!290]
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+Come lo sai?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Ho visto.
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+Che hai visto?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Le ho visto il garofano proprio qui. *(Indica con
+precisione dove le ha visto il fiore.)*
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+E c'è un sol garofano in tutto il paese?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Non lo so. Dammelo.
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+E sospetti?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Si, che sospetto.
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+E allora, niente!
+
+[pg!291]
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Se non me lo dai con le buone, me lo prendo a
+forza.
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+.. container:: noindent
+
+   A forza?... Vediamo se ne sei capace!
+
+   *(Rosa gli corre addosso. Giustino fugge di qua
+   e di là. Rosa lo insegue. Casca una sedia. Giustino
+   inciampa. Rosa ne approfitta.)*
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(afferrando il fiore)* Ah! Ci sono!
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+Ma ci sono anche io. *(La stringe nella vita.)*
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(ride sgangheratamente.)*
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+*(baciandola e ribaciandola)* Tè, tè!... Questo per
+castigo.
+
+[pg!292]
+
+
+SCENA II.
+---------
+
+ROSA, GIUSTINO *e* DON PAOLO.
+`````````````````````````````
+
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(uscendo dal suo quartierino, con un breviario
+in mano, proprio mentre Giustino sta baciando Rosa,
+si ferma sull'alto del corridoio e, affacciato alla
+balaustra, sgrida:)* Al solito! Al solito! Ci siamo
+al baciucchiamento! Ci siamo! Eccoli lì.... *(Imita
+il rumore dei baci.)*
+
+.. class:: center
+
+| :small-caps:`Giustino` *e* :small-caps:`Rosa`
+
+*(si staccano, arrossendo.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+È una vera sconvenienza! Senza dire poi che è
+anche una grulleria! Che bisogno c'è, santa pazienza!,
+che bisogno c'è di stare a baciucchiarsi
+ora, se dovete sposarvi apposta per questo? *(Scende
+la scaletta.)* Hanno fretta, hanno!... Sconvenienti
+e grulli! Sì, sì, lo ripeto: sconvenienti e grulli!
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+*(confuso)* Avete detto sempre che....
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Che cosa ho sempre detto, io?...
+
+[pg!293]
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+Che... che la minestra per averla buona a tavola
+si ha da saggiarla in cucina.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Ma se te la mangi tutta in cucina, briccone, a
+tavola ci vai senza minestra e senza appetito! Hai
+capito? *(Se li avvicina tutti e due, e, in mezzo ad
+essi, assume un'aria di mistero.)* La notte scorsa,
+mi sono accorto di tutto.
+
+.. class:: center
+
+| :small-caps:`Giustino` *e* :small-caps:`Rosa`
+
+*(pudibondi)* Don Paolo...
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Ma io domando a voi: è una cosa decente quella
+che fate, o è una...? *(Mettendosi la mano sulla
+bocca)* Uhm!... me ne fareste dire delle grosse. E,
+intanto, adesso avremo gente in casa, e, se voialtri
+continuerete così, sarà uno scandalo. Che si penserà
+di me? Bel tutore!... E che prete modello!... *(Pausa.
+Vedendoli mortificati)* Be'.... Non importa: quello
+ch'è fatto è fatto... Ma per evitare le tentazioni,
+la notte chiuderò bene a chiave la porta d'ingresso.
+E per l'avvenire staremo tutti quanti più attenti.
+Giustino, vuoi dare il buon esempio?
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+Sì.
+
+[pg!294]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Saluta da quel bravo galantuomo che sei e piglia
+la via di casa. È ancora probabile che i miei ospiti
+arrivino stasera, e non voglio che a quest'ora ti si
+trovi qui. Per mio nipote non me ne preoccuperei,
+ma c'è qualche amico suo e c'è... quell'altra
+parente... con cui ho poca dimestichezza. Ho
+udito già da un pezzo il fischio del treno, e a venire
+dalla stazione non s'impiegano più di dieci minuti.
+Va, figliolo mio: sii ragionevole. Va a dormire.
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+.. container:: noindent
+
+   Obbedisco.
+
+   *(Giustino gli bacia la mano. Si avvia. Poi indugia,
+   guardando Rosa che a sua volta lo guarda.
+   S'interrogano così, senza parlare, e sono sulle spine.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(li contempla e conclude quasi tra sè:)* Ho capito.
+*(Ride)* Ah, ah, ah! *(Indi a Rosa, con intenzione
+furbesca:)* Rosa, è tutto pronto nelle camere?
+Biancheria, acqua, candele?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Se volete darci un'occhiata voi stesso.... I vostri
+occhi vedono meglio dei miei.
+[pg!295]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+E chi ne dubita? Vado e torno sùbito. *(A Giustino:)*
+E qui non ti ci voglio ritrovare. Mi spiego?
+Si saluta, e si va a casa a dormire.... Siamo d'accordo?
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+*(col capo fa cenno di sì.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+E che il Signore t'accompagni. *(Esce per la prima
+porta a destra.)*
+
+.. class:: center
+
+| :small-caps:`Rosa` *e* :small-caps:`Giustino`
+
+*(parlano frettolosamente sottovoce.)*
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Stanotte, come facciamo?
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+Come al solito.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Non potrai entrare.
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+Perchè?
+
+[pg!296]
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Don Paolo chiude a chiave.
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+Meglio! Resto qui addirittura.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Dove?
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+Mi nascondo nella tua stanza.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+E poi?
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+E poi me la svigno per la tua finestra. Due uomini
+di altezza.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Ma tu sei un uomo solo.
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+Che fa? Di sotto ci sono anche gli alberi.
+
+[pg!297]
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+E se da quella parte incontri il cane?
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+Il cane mi conosce e non dice niente.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Aspetta. *(Prende di su una tavola del pane, ne
+rompe un pezzo e glielo porge.)* To', prendi.
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+*(prendendolo)* Che è?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+È pane. Glielo dai a mangiare e abbaierà sottovoce.
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+Vedremo.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Presto, nasconditi. E non far rumore. *(Lo spinge
+verso la propria camera, che è la seconda a sinistra.)*
+
+.. class:: center
+
+| :small-caps:`Giustino`
+
+*(dandole un bacio in faccia)* Questo è senza rumore.
+E tu, sbrigati. Hai capito? *(Esce.)*
+
+[pg!298]
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(chiude subito la porta, e, accorgendosi che Don
+Paolo ritorna, va alla finestra, fingendo di salutare
+con amore)* Buona notte, Giustino! Buona notte,
+Giustino mio bello! Pensa a me. Buona notte!
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Non tante smancerie dalla finestra.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Salutavo.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Era dispiacente d'andarsene?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Eh!...
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Se non vi avessi lasciati ancora un momento
+soli, poveretto, non si sarebbe deciso ad andar via.
+Il... *(ammiccando)* bacino della staffa, non è vero?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Già.
+
+[pg!299]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Te la consuma la faccia quello lì! S'ha da affrettare
+questo benedetto matrimonio, altrimenti.... Con
+la primavera c'è poco da scherzare!
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Perchè?
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+«Perchè?» *(Diventando quasi grave, accenna al
+cielo con gli occhi e con le mani)* Perchè siamo
+stati fatti così!
+
+
+SCENA III.
+----------
+
+DON PAOLO, ROSA, NORA, LUCIO *e* GIOVANNI.
+``````````````````````````````````````````
+
+.. class:: center
+
+| *(Dalla strada, arrivano le voci di Lucio, di Nora e di Giovanni.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Zio! Zio!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Siamo qui!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Siamo qui, Don Paolo, siamo qui!
+
+[pg!300]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Oh! Eccoli! Benone! Eccoli! *(A Rosa:)* E tu muoviti....
+Andiamo.... *(Esce, correndo, dal fondo.)*
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(lo segue.)*
+
+.. class:: center
+
+| *(Si odono ancora le voci di fuori, ma più vicine.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Finalmente! Finalmente!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Viva lo zio!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+.. container:: noindent
+
+			E fuori i lumi!
+
+			*(Entrano, portando in mano chi un fagotto, chi
+			una borsa da viaggio, chi un valigiotto, chi una
+			scatola.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Speravamo d'esser ricevuti per lo meno con le
+fiaccole.
+
+[pg!301]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Vi ho preparato questo po' po' di luna piena.
+Altro che fiaccole!... Qui, qui tutto. *(Accumula la
+roba sopra una tavola.)* E poi avreste meritato veramente
+ch'io vi facessi trovare la porta chiusa.
+Come! Proprio con l'ultimo treno? V'aspettavo col
+penultimo.... Son venuto anche alla stazione, son
+venuto!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E il mio telegramma?
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Che telegramma?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+L'ho fatto io.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Rosa, ti è stato consegnato un dispaccio quand'io
+ero alla chiesa?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(vedendo Rosa che era rimasta indietro)* Oh,
+Rosina!
+
+[pg!302]
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(si fa avanti tutta spaurita, cava di tasca un dispaccio...
+e con timidità lo mostra.)* È questo.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(prendendo il dispaccio e irritandosi un poco)*
+Santa pazienza!...
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Non sapevo che....
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Che la tua testa è diventata un arcolaio!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Eh, via, non importa! Come s'è fatta grande!
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Ventun'anno, sai. E si sposa fra giorni. Vedrai
+che tocco di fidanzato! — Signorina Nora, signor
+Giovanni, questa è la pupilla di cui parlammo ieri.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Un tipo assai gentile!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Molto bellina.
+
+[pg!303]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(serio)* Il suo babbo e la sua mamma mi furono
+amici preziosi, quando io, come prete e come agricoltore,
+venni qui ad amare gli uomini e la terra.
+*(Con qualche reticenza)*.... Sì, la mamma, morendo,
+l'affidò a me. E adesso ella... ella dimentica in
+saccoccia i miei telegrammi, è verissimo, ma in
+fondo poi mi vuol bene.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Tanto!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(si toglie il cappellino.)*
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(lo mette in un canto.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(cambiando tono)* Be'! Sic rebus stantibus, patti
+chiari. Nessuna cerimonia, nessun complimento.
+Questa è casa vostra. Ne più nè meno. La camera
+della signorina Nora è lì, accanto a quella di Rosa.
+Tu, Lucio, da questo lato. *(Indica il lato opposto.)*
+Eh! Eh! Eh! Il signor nipote starà come un principe.
+Egli avrà il suo studiolo per leggere e contemplare,
+e laggiù, laggiù, bene appartata, la sua
+camera da letto, che è un vero paradiso. Per l'amico
+Giovanni, poi....
+
+[pg!304]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Un altro paradiso?
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(dandogli un buffetto)* Di paradisi, mio caro, non
+ce n'è che uno.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Per conto mio, non voglio incomodare nè Dio nè
+il diavolo. Ho bisogno d'una poltrona per aspettare
+l'alba e di null'altro. Ve li ho consegnati, e
+domani, col primo treno, via!
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+E siete pittore, voi? E dopo aver visto questo
+meraviglioso paesaggio al chiaro di luna, non vi
+sentite affascinato e costretto a rimanere? Del resto,
+io vi ricatto. *(Accennando il motivo della Norma:)*
+«\ *In mia mano alfin tu sei!*» O un bozzetto fatto
+sotto i miei occhi, o la vita!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+A scanso d'equivoci, vale più il bozzetto.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Dunque, rimarrete?
+
+[pg!305]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ma sì...
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(insistendo)* Rimarrete?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(non vista, sdegnosamente fissa Giovanni.)*
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(senza lasciarsi scomporre dallo sguardo di lei)*
+Va bene!... Rimarrò per qualche giorno.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Oh! Bravo!
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Adesso sì che siete un grande pittore! *(Affaccendandosi)*
+Ecco: a voi, il numero uno. *(Indica la
+seconda porta a destra.)* Non sono un albergatore
+coi fiocchi?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Davvero!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Mostratemi la mia reggia, zio.
+
+[pg!306]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Aspetta. Tu, Rosa, prendi la roba di questi signori,
+e mettila a posto.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Qual'è la vostra, signor Lucio?
+
+.. class:: center
+
+| *(Tutti intorno ai fagotti e alle valigette.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(con insolita giocondità)* Non v'incomodate. Faccio
+io. Questa è della signorina Nora....
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Io non ci ho che una borsa e un *nécessaire*.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Per ora!... *(Sempre più affaccendato)* Vieni, Lucio.
+
+.. class:: center
+
+| :small-caps:`Lucio` *e* :small-caps:`Don Paolo`
+
+*(prendono alcune valigette ed escono per la prima
+porta a destra.)*
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(con in mano qualche altra valigia e qualche scatola,
+esce per la prima porta a sinistra.)*
+
+[pg!307]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(severamente e rapidamente, a Giovanni:)* Voi
+dunque non mantenete la vostra parola!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Se sono stato pregato....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ma non dovete restare.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Sarebbe una scortesia.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Quello che fate è disonesto.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+È umano.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+È turpe, vi dico.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Non esagerate.
+
+[pg!308]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+È tutta una premeditazione.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Io vi adoro.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(con rabbia)* E io vi sfuggirò anche a costo di....
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(vedendo venir Lucio e Don Paolo)* Badate....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(si ricompone d'un sùbito e finge di prorompere
+in una risata)* Ah! ah! ah! ah!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(secondandola, ride come lei.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Cos'è? Cos'è? Voglio ridere anch'io.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(frettolosa, rientra, prende la borsa e il nécessaire
+di Giovanni e li porta nella camera destinata a
+lui.)*
+
+[pg!309]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+E anch'io. Cos'è? Sarebbe strano che questa volta
+proprio io non ridessi.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+È Giovanni..., è Giovanni che me ne dice di tutti
+i colori.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+.. container:: noindent
+
+   Naturale! Un pittore come lui!
+
+   *(E ridono tutti, chi di buona e chi di mala voglia.)*
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(ritornando)* Ogni cosa è in ordine. Ho acceso
+pure le candele nelle camere della signorina Nora
+e del signor Giovanni.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Hai fatto bene; ma non credo che questi signori
+vogliano rintanarsi a quest'ora. Per noi campagnuoli,
+è diverso. Perciò, chiedi licenza, tu, e vattene
+a letto.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(piano, a Lucio:)* Vi debbo parlare.
+
+[pg!310]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(sussulta.)*
+
+.. class:: center
+
+| :small-caps:`Giovanni` *e* :small-caps:`Don Paolo`
+
+*(osservano.)*
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Felice notte a tutti.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Altrettanto a voi, bella ragazza.
+
+.. class:: center
+
+| :small-caps:`Giovanni` *e* :small-caps:`Lucio`
+
+Altrettanto, altrettanto!
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(bacia la mano a Don Paolo e si avvia.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(quand'ella è presso l'uscio)* Le orazioni, eh?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(con umiltà religiosa)* Me le vado a dire.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Benedetta!
+
+[pg!311]
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(esce.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+E io, figliuoli miei, faccio lo stesso. Si avvicina la
+mezzanotte, e domani è domenica e ci ho la messa
+dell'alba. Voialtri potete starvene qui finchè v'aggrada.
+Io me ne salgo lassù, e dove dormo io non
+c'è pericolo che giungano i rumori di questo basso
+mondo. *(Ride)* Ah! ah! ah! Ricordatevi che siete
+in casa vostra. Parlate, gridate, fate quello che vi
+pare e piace, e, soprattutto, cercate di stare allegri.
+Io non v'impongo di rinunziare alle vostre abitudini;
+ma umilmente vi consiglio di sperimentare
+le mie. La signorina Nora *(con bonaria ironia)* ha
+inaugurata la villeggiatura con una gran risata risonante.
+L'aria comincia a produrre i suoi buoni
+effetti.... Meno male! Vado a dormire contento.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+E io v'imito.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Sul serio andate già a dormire?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+A dormire no, ma a rintanarmi e a dire le orazioni
+come la vostra Rosina.
+
+[pg!312]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Scomunicato!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Arrivederci, Lucio. Arrivederci, Nora. A voi, Don
+Paolo, ho da baciare la mano?
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Si capisce! *(Gli mette il dorso della mano sul
+muso celiando.)*
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(gliela bacia comicamente.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(ne approfitta per domandargli piano:)* Che novità
+c'è fra quei due cipressi?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(pianissimo)* Novità, credo, nessuna.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Lasciamoli alle loro elucubrazioni.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Beninteso!
+
+[pg!313]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(forte, a Lucio, a Giovanni e a Nora:)* Dunque,
+felicissima notte! *(Comincia a salire.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Buon riposo, Don Paolo! Buon riposo, Giovanni!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E buoni sogni!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(scherzando)* Grazie, ma i sogni non sono il mio
+forte. *(Esce per la seconda porta a destra.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(già sul corridoio, si ferma e borbotta:)* Uh!
+Santa pazienza! Dimenticavo le visite notturne di
+Giustino. Ma l'ha da fare con me! *(Pazientemente, ridiscende
+e va a chiudere la gran porta in fondo. Gira
+due volte la chiave, e se ne ode il rumore nella serratura.)*
+La chiave, qui, in saccoccia. *(Se la caccia
+in tasca. Indi, risalendo la scaletta)* Non crediate
+che io abbia paura dei mariuoli, veh! Da noi, mariuoli
+non ce ne sono.... Cioè, ce ne sono e non ce
+ne sono.... So io!... So io!... E quando mi ci metto!...
+*(Apre l'uscio del suo quartierino, dà un'occhiata
+a Lucio e a Nora, e, prima di scomparire,
+furbescamente, si affaccia e li risaluta:)* Di nuovo,
+felice notte!
+
+[pg!314]
+
+.. class:: center
+
+| :small-caps:`Lucio` *e* :small-caps:`Nora`
+
+Felice notte! Felice notte!
+
+
+SCENA IV.
+---------
+
+LUCIO *e* NORA.
+```````````````
+
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Voi avete qualche cosa da dirmi, Nora?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Sì.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Bene. È un pezzo che preferite i lunghi silenzi,
+mentre una volta, ricordate?, voi riempivate i silenzi
+miei con la vostra parlantina di bambinona
+gaia. Dite. Dite.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non sarò gaia neanche ora.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Poco fa, ridevate....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Giovanni mi faceva ridere, ma... io non ne avevo
+punto voglia....
+
+[pg!315]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Mi spaventate.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Spaventarsi è male. Io vi chiedo, invece, una
+saggia serenità.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Contateci.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Lucio, io sono venuta qui, con voi, perchè... perchè,
+forse, senza di me, voi non vi sareste deciso
+a questo cambiamento d'aria e d'ambiente che era
+indispensabile per la vostra salute. Son venuta in
+casa di vostro zio, che è un uomo di mondo e che
+sa comprendere e compatire. Ma non posso non
+riconoscere....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Nora!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Mi avete promesso d'essere sereno. Non posso
+non riconoscere la bizzarria del fatto.
+
+[pg!316]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Vi lascerete vincere, voi, da un gretto convenzionalismo?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Da nessun convenzionalismo mi lascio vincere.
+Io non mi disdico, io non muto le mie convinzioni.
+Ieri, mi domandaste se io credessi strano il vostro
+affetto fraterno e io vi risposi di no. Questo
+pensavo, e questo penso. Ma venire a vivere in
+casa di vostro zio, con voi, sia pure per quindici,
+per dieci giorni, conveniamone, Lucio, è una cosa
+molto diversa!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E volete andarvene?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Debbo andarmene.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E vi pare possibile che io guarisca lontano da
+voi?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Verrò a trovarvi.
+
+[pg!317]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Non basterà.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Verrò a trovarvi spesso.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Non basterà, non può bastare.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Eppure, secondo i vostri ideali, dovrebbe bastare.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(come un bambino, accalorandosi)* Ho bisogno di
+voi, oramai.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ma non della mia presenza.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ho bisogno di sapervi vicino a me.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Il mio spirito starà con voi anche quando non
+ci starà la mia persona.
+
+[pg!318]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ma alla vostra persona voi mi avete abituato.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Vi ho abituato all'affezione migliore di cui è capace
+il mio cuore.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E non contate per nulla le vostre cure?... la vostra
+voce?... la vostra mano buona e sicura?... i
+vostri occhi buoni e indulgenti?... Non contate
+per nulla *(animandosi sempre più)* ciò che è in
+voi, solamente in voi, e che io non trovo in nessun'altra
+donna? Tutto questo... tutto questo...
+*(quasi circondando con le mani il volto di lei)*... non
+lo contate per nulla, voi; e credete che possa essere
+dimenticato o sostituito o non desiderato quando
+voi non siete lì, tutta quanta vicino a me?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+E non avete il sospetto, Lucio, che quello che
+mi dite stanotte, qui, non somigli a quello che mi
+dicevate ieri in casa vostra?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(colpito)* Come!?
+
+[pg!319]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non v'accorgete che questo attaccamento comincia
+a non aver niente di comune con l'amicizia
+purissima, che è più benefica e più duratura di
+ogni altro legame?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Nora, che dite?!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Che dico? Siete voi che mi avete insegnato a
+penetrare l'importanza intima di tutti i nostri desiderii,
+di tutte le nostre tendenze, di tutte le più
+lievi variazioni dell'anima; siete voi che mi avete
+iniziata a certi sottili discernimenti; e ora penso
+col vostro cervello, parlo il vostro linguaggio, *dico*
+le vostre parole. Tutti avrebbero il diritto di non
+comprendermi. Voi, no!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+.... È la prima volta che mi trattate con tanta
+severità.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ed è per me una fatica atroce. Ma ho finito. Lucio,
+noi ci siamo intesi.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(dopo un tormentoso dibattito con sè medesimo,
+appare risoluto.)* No.... Ascoltate. Sono io che vi
+[pg!320]
+domando la grazia di non ragionare troppo. E,
+d'altronde, ogni vostro ragionamento sarebbe vano
+perchè, sappiatelo: senza di voi, qui, io non resterò
+nemmeno un giorno!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(con un misto d'asprezza è di tenerezza)* Ciò significa
+che sinora avete ingannato voi stesso, e,
+ingannando voi stesso, avete ingannata anche me.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Nora!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Lo so, vi sembra crudele la mia sincerità; ma
+nel mio pensiero non c'è nessuna intenzione che
+non sia degna di me e di voi. L'abitudine giustifica
+la vostra inconsapevolezza; ma giacchè
+voi, sempre, e in buona fede, mi avete parlato di
+affetto puro, di amicizia, di fraternità, e giacchè il
+fantasma dell'Amore vi fa paura e voi lo scacciate,
+convinto ch'esso rappresenti il Pericolo e l'Infelicità,
+io ho il dovere di dirvi: — Badate, Lucio,
+badate! Voi non mi siete fratello, voi non mi siete
+amico, no! no! Voi *mi amate* o state per amarmi:
+questa, Lucio, questa è la verità!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(resta come schiacciato. Dilata le pupille, si caccia
+le mani nei capelli e ripete sommessamente:)*
+[pg!321]
+La verità?!... *(Si accosta a Nora, le piglia le mani,
+ne ha una sensazione evidente, un fremito che
+gli attraversa il corpo. Poi lascia cadere le proprie
+braccia penzoloni. Le si accosta di nuovo, e, trepidando,
+le fiata:)* E... voi?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(come se avesse ricevuto un urto)* Io?
+
+.. class:: center
+
+| *(Si guardano fissamente negli occhi.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+... Mi amate?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(esita, e poi dice con fermezza:)* Sì.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Volevate dirmi di no?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Volevo dirvi di no.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Avete anche voi paura dell'amore?...
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ho paura della mia coscienza.
+
+[pg!322]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E che vi rimprovera essa?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(risoluta)* Per ora, niente.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E che potrebbe rimproverarvi più tardi?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non conosco l'avvenire.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ma voi soffrite, povera Nora!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Molto.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E non dovete soffrire.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Io non sono perfetta come voi credete.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Perchè non siete perfetta? Avete mentito qualche
+volta?
+
+[pg!323]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non ho mentito. Ho taciuto.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Spiegatevi.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ho taciuto perchè voi non mi avete mai interrogata....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Su che?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non m'avete mai domandato che cosa sono io.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+La vostra esistenza, per me, comincia da quando
+vi ho incontrata, da quando mi avete beneficato.
+Il resto non m'importava.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non v'importava sino a che non sospettavate d'amarmi.
+Ma, adesso?
+
+[pg!324]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Adesso, nulla è mutato. Non vi ho ripetuto che
+tutto quanto è inerente alla debolezza umana non
+costituisce, per me, l'essenza della vita? Sarete
+stata debole, avrete potuto cedere a una tentazione,
+a un'aberrazione, avrete potuto errare: ma,
+*dentro*, voi avete sofferto, Nora...
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(è in preda a uno spasimo ineffabile.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+... come soffrite in questo momento. Avete sofferto
+e, aspettando me, vi siete serbata spiritualmente
+intatta. Lo stesso martirio che ora i vostri
+ricordi v'infliggono mi dice *che cosa siete voi*. La
+confessione delle vostre debolezze e l'orrore che
+esse destano in voi ci aiuteranno a salvarci. E
+siamo ancora in tempo perchè la mia bocca non
+ha sinora neppure sfiorata la vostra. Noi ci salveremo.
+Datemi, datemi questa grande onestà dell'anima,
+e io non vi chiederò niente altro, mai!
+
+.. class:: center
+
+| *(Un silenzio.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+No, Lucio, è necessario che mi respingiate addirittura.
+
+[pg!325]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Sentite, forse, di potere amare un altro?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+«\ *Amare?*» *(Sicura ed energica)* Amare, no!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E dovrei respingervi?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Quello che pretendete dal vostro cuore è inverosimile.
+*(Come chiedendogli una grazia)* Respingetemi,
+Lucio, respingetemi!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Non è inverosimile quello che pretendo dal mio
+cuore. Ammettiamo che io non vi sia amico, che
+io non vi sia fratello. Sì, ammettiamolo. Ma io so
+di essere tuttora così distaccato, così lontano dalla
+miseria materiale di cui voi, forse, siete stata vittima
+e mi sento tuttora così forte della mia fede, che sono
+convinto di poter combattere contro quella miseria,
+di poter combattere sino all'ultimo e di potervi
+amare, sempre, come voglio io! Nora, non vi lasciate
+vincere da non so quale sfiducia. Nora! Nora!...
+ve ne prego.
+
+[pg!326]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(disfatta, si abbandona su di una seggiola.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Scacciate i pensieri che vi torturano, mia buona
+creatura.... Il vostro Lucio è qui dinanzi a voi, devotamente,
+come dinanzi a Dio.... Vedrete, vedrete
+che non verrà mai il giorno in cui voi dovreste
+*ricordare* e *arrossire* e in cui io dovrei transigere.
+Intanto, io mi rassegnerò alla vostra lontananza.
+Mi rassegnerò. Voi, quando vorrete, anche domani,
+tornerete in città.... Mi sentite, eh? Mi sentite?...
+E così comincerò a dimostrarvi che la vostra presenza
+*non mi è* indispensabile e che nulla ancora
+mi avvince a voi che possa farvi temere un avvilimento
+ed una profanazione. *(Pausa)* Siete... siete
+pìù calma?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(accompagnando con lento cenno del capo la parola
+appena pronunziata)* Sì.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Non mi rimproverate più?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(fa cenno di no.)*
+
+[pg!327]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Grazie. *(Si leva. Respira stentatamente. Va alla
+finestra, e la spalanca.)*
+
+.. class:: center
+
+| *(Il lume di luna biancheggia più vividamente.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(respirando meglio)* Ah! Questa luce, quest'aria
+fresca e fragrante mi fanno tanto bene!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+.. container:: noindent
+
+   *(si alza e lo saluta con gentilezza dolcissima.)*
+   Buona notte, Lucio.
+
+   *(Lucio va verso di lei. Nora gli stende la mano.
+   Lucio gliela stringe e la trattiene.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Siete più calma?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Sì.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Anch'io! Anch'io! *(Le bacia appena le dita.)*
+
+[pg!328]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(lentamente esce.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+.. container:: noindent
+
+   *(la segue con gli occhi. Quand'ella è sparita, egli
+   si tocca le tempie, parlando fra sè:)* Calmo io?! — Non
+   è vero.... Non è possibile! La sua confessione!...
+   E poi... e poi!... *(È assalito dal convulso.)*
+   Se ella se ne va, io non saprò sopportare la sua
+   assenza.... Io starò male! Starò molto male! *(Egli
+   sente le vibrazioni della carne. Si esaspera. Vorrebbe
+   domarle, quasi vorrebbe percuotersi; e, fiaccato,
+   vacillante, conclude:)* Non dovrebb'essere
+   così;... ma così è. *(Inorridisce)* Così è! *(Pausa)*
+   «Tu vuoi trasformare il mondo» mi diceva ieri
+   Ziegler... «Amare come voglio io!» *(Pausa.)* E
+   che significa?... Che significa?... *(Pensando acutissimamente,
+   prende il lume e, piano piano, se ne
+   va nelle sue stanze.)*
+
+   *(Le ombre si allargano, solcate dai raggi della
+   luna.)*
+
+
+SCENA V.
+--------
+
+DON PAOLO *e* GIOVANNI.
+```````````````````````
+
+
+*(Il gran silenzio notturno impera serenamente. Ad un tratto, è interrotto da lontani latrati, a cui succedono un rumore d'invetriate che sbatacchiano e la voce di Don Paolo la quale si perde spandendosi nell'aria aperta.)*
+
+[pg!329]
+
+.. class:: center
+
+| :small-caps:`La voce di don Paolo`
+
+Anche stanotte, eh? Anche stanotte? Ma per dove
+sei entrato, malandrino?... Sì, corri, corri adesso!...
+Ringrazia il cielo che non ti sii rotta la schiena e
+che il cane non ti abbia mangiato un orecchio....
+Vorrei sapere pel matrimonio che cosa vi conservate
+voialtri. *(Pausa. Chiama:)* Rosa! Rosa!...
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(sporgendo il capo dall'uscio semiaperto resta in
+ascolto.)*
+
+.. class:: center
+
+| :small-caps:`La voce di don Paolo`
+
+*(continuando)* Per dove è entrato Giustino? Ah?
+Non rispondi? Fai la sorda? Ma tu e quel malandrino,
+santa pazienza!, volete mettermi con le spalle
+al muro, volete!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(mormora tra sè, rendendosi conto dell'accaduto:)*
+È la ragazza che riceve di nascosto il suo fidanzato....
+
+.. class:: center
+
+| :small-caps:`La voce di don Paolo`
+
+.. container:: noindent
+
+   Vergognatevi! Vergognatevi!
+
+   *(Si distingue, nel silenzio, il fracasso delle invetriate,
+   che Don Paolo richiude.)*
+
+[pg!330]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(girando lo sguardo)* E Lucio? Non c'è,... M'era
+parso.... Mi sono ingannato. *(S'avanza verso la
+porta di Lucio, chiamando con poca voce:)* Lucio!
+Lucio! *(Pausa.)* Mi sono ingannato. *(Sta per rientrare
+nella sua camera. Ma, come se una forza occulta
+glielo vietasse, si ferma e guarda la porta
+di Nora.)* Se n'andrà, forse, all'alba. *(Smaniosamente
+indugia.)*... Parlarle, almeno!... Parlarle prima
+che se ne vada.... *(Accosta l'orecchio a quella
+porta e mormora.)* Ancora in piedi.... Tentiamo.
+*(Picchia cautamente, con le nocche.)*
+
+
+SCENA VI.
+---------
+
+NORA *e* GIOVANNI.
+``````````````````
+
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(aprendo)* Lucio! *(Vede Giovanni nella penombra)*
+Oh! Voi! *(Retrocede tirando a sè l'uscio.)*
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(la trattiene)* Un momento....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(sforzandosi di chiudere l'uscio)* Credevo che fosse
+Lucio....
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(opponendo la sua alla forza di lei)* Lucio è a
+letto....
+
+[pg!331]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+E voi che volete?!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Non vi allarmate così.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ma che volete?!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Parlarvi, ecco tutto.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(recisamente)* A quest'ora, no. *(Retrocede di nuovo
+per chiudere.)*
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(glielo impedisce con energia, quindi le prende
+un braccio, e, imponendosi una relativa mitezza,
+cerca di trarla e di allontanarla dalla soglia.)* Un
+momento, ve ne supplico.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Sbrigatevi.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Perchè avete detto a Lucio di voler partire?
+
+[pg!332]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ci avete spiati? Una bassezza di più.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Vi giuro che ho ascoltato senza volerlo. Nel silenzio
+della campagna, alcune parole vostre giungevano
+sino a me.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(con rabbia concentrata)* Maledizione!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+E perchè gli avete detto che non siete quella che
+egli credeva?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non l'ho detto.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Sì, l'avete detto!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non dovevate ascoltare. Addio!...
+
+[pg!333]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(afferrandole le mani)* Non vi permetterò di fuggire
+se prima non mi abbiate risposto.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Lasciatemi.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+E perchè volevate ch'egli vi respingesse? Perchè?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Se non mi lasciate, io grido.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Per trattarmi come un sopraffattore?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Come un sopraffattore!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Ma io, invece, sono qui per aiutarvi.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non voglio il vostro aiuto.
+
+[pg!334]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Voi vi perdete, Nora. Voi impazzite! Impazzite
+come lui!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non c'è rimedio.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Sì, il mio amore.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Il vostro capriccio!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Il mio amore vero.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Il vostro desiderio!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Il mio amore genuino, intero, completo.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+L'anima mia è sua.
+
+[pg!335]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Ma di ciò non potete dare una prova nè a me,
+nè a voi stessa....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+È sua, Giovanni, è sua!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Ma vicino a me tremate.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Questa *è un'altra cosa*. Lasciatemi.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+E ditemi tutto quello che sentite!...
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Lasciatemi.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Ditemi ancora che non mi amate....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(cedendo a poco a poco senza che ne abbia coscienza)*
+Lasciatemi....
+
+[pg!336]
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(circondandola cupidamente con le braccia)* Ditemelo,
+ditemelo....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Per pietà, lasciatemi....
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Fatemelo ben capire....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(con un ultimo tentativo di ribellione nelle parole
+e con un soave abbandono nella voce e nella
+persona)* No... *Non* ti amo.... *Non* ti amo.... *Non*
+ti amo....
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(le bacia la bocca.)*
+
+.. class:: center
+
+| (:small-caps:`Sipario.`)
+
+[pg!337]
+
+
+
+
+ATTO QUARTO.
+============
+
+
+*La stessa stanza del terzo atto. Il finestrone è
+tutto aperto. È appena l'alba. Le ombre andranno
+a poco a poco dileguando.*
+
+
+SCENA I.
+--------
+
+DON PAOLO, ROSA, UN CONTADINO.
+``````````````````````````````
+
+
+*(Si picchia reiteratamente alla porta. Qualche momento di vuoto e di silenzio.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+.. container:: noindent
+
+   *(comparisce sul pianerottolo del suo quartierino,
+   in maniche di camicia, con la faccia bagnata e in
+   mano l'asciugamani.)*
+
+   *(Si picchia di nuovo.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(asciugandosi il viso, chiama:)* Rosina! Rosina!
+*(Pausa.)* Rosina!
+
+[pg!338]
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(di dentro)* Vengo, vengo. *(Dall'uscio della sua
+camera, sporge la testa e un po' il corpo. Ha la
+sottana e il busto. La camicia lascia nude le braccia
+e le spalle.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Dormivi ancora, eh?.... Già, il sole spunta soltanto
+per chi dorme la notte. Spudoratella!
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Stavo vestendomi....
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+E non sentivi picchiare?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Non potevo aprire.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Perchè non potevi aprire?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+La chiave non ce l'avete voi?
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(ricordando)* Ah! *(Esce, e rientra subito.)* Prendi.
+*(Fa cader giù la chiave.)*
+
+[pg!339]
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(mettendosi uno scialletto sulle spalle, si avanza
+e raccoglie la chiave ridendo un poco.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Sì, ridi tu. Ma la notte ventura chiuderò a chiave
+anche le finestre.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(va in fondo ed apre.)*
+
+.. class:: center
+
+| :small-caps:`Il Contadino`
+
+Latte. *(E consegna la secchia piena di latte a
+Rosa.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Che non sia poco. Abbiamo gente in casa.
+
+.. class:: center
+
+| :small-caps:`Il Contadino`
+
+*(vedendo Don Paolo, s'inchina e si toglie devotamente
+il berretto.)* Servo di vostra eccellenza.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(guardando nella secchia)* Ce n'è, ce n'è. *(Comincia
+ad affaccendarsi per il caffè e accende il fornello.)*
+
+[pg!340]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(al contadino)* Ehi! Don coso! È la prima domenica
+del mese mariano. Badiamo a non mancare
+alla messa anche stamattina.
+
+.. class:: center
+
+| :small-caps:`Il Contadino`
+
+Domenica scorsa avevo l'asino malato, ecco.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+E oggi, come sta l'asino?
+
+.. class:: center
+
+| :small-caps:`Il Contadino`
+
+Eh!... il Signore se l'è chiamato.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(quasi fra sè:)* Non ci mancherebbe altro!
+
+.. class:: center
+
+| :small-caps:`Il Contadino`
+
+Servo di vostra eccellenza, e buona giornata a
+tutti.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Altrettanto.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(salutando con la mano)* Arrivederci, caro.
+
+[pg!341]
+
+.. class:: center
+
+| :small-caps:`Il Contadino`
+
+*(esce.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Be', animo, Rosa! Prepara caffè e latte, e tre o
+quattro chicchere ben pulite.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Non sto a fare che questo.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+E, sulle punte dei piedi, va a vedere se mio nipote
+dorme o è sveglio.
+
+
+SCENA II.
+---------
+
+DON PAOLO, ROSA, LUCIO.
+```````````````````````
+
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(entrando a tempo)* Il nipote vostro è qua.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Oh! Bravo! Bravo! All'alba, già alzato!... Niente
+di più salutare, sai?
+
+   |   «Fiorin di primavera,
+   | «Lévati all'alba, e fa all'amor di sera.»
+
+*(Ride)* Ah! ah! ah! ah!... Come si va dunque?
+
+[pg!342]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Abbastanza bene, zio.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Ringraziamo il cielo! E s'andrà anche meglio.
+Vedrai! Rosina, mi raccomando, eh! *(Torna nelle
+sue stanze.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(sbadiglia, e sgranchisce le braccia)* Provvedete
+sempre voi alle faccende di casa?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(intenta alla bisogna)* Sempre.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E ora che vi maritate?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Lo stesso.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E lo sposo?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Sarà contento.
+
+[pg!343]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(distrattamente)* Sicchè, resterete ad abitare con
+Don Paolo?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Certo.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Chi sa che non ci resti io pure!
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Eh!... Voi, abituato a stare in città.... Che fareste,
+qui?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Non so. *(Sorridendo)* Per esempio, il medico....
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Qui, ammalati non ce ne sono.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Mai?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Mai.
+
+[pg!344]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E che fa il medico condotto?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Ha nove figliuoli.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ah! Questo fa?... È ammogliato, s'intende.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+E come!... Da noi, tutti gli uomini sono ammogliati.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E perchè?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Sarà l'aria.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E le donne?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Lo vedete?... Ci maritiamo.
+
+[pg!345]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+A voi piace di maritarvi?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Altro se mi piace!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Eppure, ricordate quando io venivo da Napoli a
+trovare lo zio?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(con prudenza pudica)* Veramente... non ricordo....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Che cosa credete che voglia ricordarvi? Rassicuratevi.
+Parlo del tempo in cui io ero ancora
+un fanciullone e voi eravate piccina piccina e rotonda
+come una palla.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Ah! Quando io stavo con la povera mamma?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Sì, stavate con lei. Lo zio mi ci conduceva ogni
+giorno, ed io, per divertirmi, vi facevo tanto arrabbiare.
+Qualche volta vi dicevo: «*appena che diventi
+grande, ti compero un bel marito*» e voi...
+[pg!346]
+voi scoppiavate a piangere come se avessi nominato
+il diavolo. E adesso invece?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Adesso è tutt'altro! So di che si tratta. *(Versando
+latte e caffè)* Questo è per voi. *(Gli porge la
+tazza.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(prendendola)* Grazie. E affinchè dimentichiate
+le arrabbiature di allora... *(beve)* vi farò un bel
+regalo il giorno delle vostre nozze.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+E anch'io ve ne farò uno quando voi sposerete
+la signorina Nora.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(turbandosi e irritandosi)* Chi v'ha detto che io
+debba sposare la signorina Nora?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Nessuno. Don Paolo m'ha detto che è una parente...,
+ma io ho capito!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(posando la tazza sopra una tavola)* Vi prego,
+Rosina, di non ripetere più queste sciocchezze.
+
+[pg!347]
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(mortificata e ingenua)* Che male c'è? È così bella!...
+*(Pausa)* Intanto, vado a vestirmi.... Qui è
+tutto pronto. Per il signor Giovanni e la signorina
+Nora non c'è che da riscaldare il caffè....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Sì, sì, ci penso io.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Non è forse bella la signorina Nora?
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(con vivace severità)* Basta, Rosina!
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Non parlo più. *(Si avvia, piagnucolando)* Se avessi
+saputo di... di farvi andare in collera.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ma che! Non sono andato in collera.... State di
+buon animo....
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Se l'avessi saputo... *(Piange più forte. Esce.)*
+
+[pg!348]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(tra sè, inquieto:)* M'ero svegliato così bene, e le
+chiacchiere di questa buona stupidina mi hanno....
+
+
+SCENA III.
+----------
+
+LUCIO, NORA, DON PAOLO.
+```````````````````````
+
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(venendo fuori dalla sua camera, risolutamente)*
+Lucio!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Nora, che avete?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+È necessario che voi abbiate il coraggio di ascoltarmi,
+visto che io avrò il coraggio di parlare.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Nora! Nora! Che altro dovete dirmi di così terribile?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Che altro?... Tutto ciò che può uccidervi o può
+darvi la salute.
+
+[pg!349]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(implorante)* Ma voi sentirete un po' di pietà per
+me. Oggi ne avete il dovere.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+No. Non è questo il momento della pietà. Io debbo
+compiere e compierò un dovere che mi *sembra* superiore
+a tutti gli altri doveri.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Nora! Qualche cosa di molto grave state per
+dirmi. Io non voglio ascoltarvi.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+E voi mi ascolterete.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Forse, più tardi, potreste pentirvene....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Non me ne pentirò mai!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ma voi siete sovraeccitata....
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ho la coscienza di quello che faccio.
+
+[pg!350]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Considerate che sono io che vi trascino a tutte
+le allucinazioni.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+E questa volta sarò io che dalle allucinazioni vi
+trarrò, e per sempre!
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(comparisce dall'alto del corridoio, e, udendo le
+ultime parole di Nora, si ferma un istante.)*
+
+.. class:: center
+
+| :small-caps:`Lucio` *e* :small-caps:`Nora`
+
+*(se ne avvedono. Tacciono, confusi, interdetti.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(il cappello in testa, il breviario fra le mani e con
+un'aria insolitamente sacerdotale, scende pian piano
+la scaletta. Giù, si ferma ancora per dir loro qualche
+cosa. Poi, non sa risolversi, e si limita a salutare.)*
+Buongiorno, signorina.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(con voce tremula)* Buongiorno.... *(Pausa.)* E così
+di buon'ora uscite, Don Paolo?
+
+[pg!351]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+.... Vado a dire la messa. *(E a passi lenti si
+allontana. Esce dal fondo.)*
+
+.. class:: center
+
+| *(Un silenzio.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(a un tratto e con asprezza)* Lucio, la confessione
+di questa notte non è stata completa.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(atterrito)* Nora!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Vi ho lasciato sospettare solamente del passato,
+e non ho voluto parlarvi del presente.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(quasi mettendole la mano sulla bocca)* Nora, tacete.
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Un uomo come voi non deve essere ingannato;
+una donna come me non deve ingannare.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Tacete, ve ne scongiuro....
+
+[pg!352]
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(con crudeltà recisa)* Io ho un amante!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(dà un acuto grido come chi riceve una coltellata)*
+Ah! *(E indietreggia, inorridito, con le mani
+sul volto.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(animata da una energia solenne)* Ora mi conoscete
+davvero!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(come istupidito, guarda intorno a sè, quasi per
+assicurarsi che non sogni.)*
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+La mia confessione di stanotte non è stata completa,
+questo è certo; ma non è stata bugiarda. *(La
+sua voce è di nuovo umile.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(sommessamente, con un accento da ebete)* Non
+mi avete detto... di... amarmi?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Ve l'ho detto. E se potessi invocare in questo
+momento le idee di cui vi pareva d'essere convinto
+[pg!353]
+fino a ieri l'altro, avrei l'audacia, l'onesta
+audacia, di asserire che, così dicendovi, stanotte
+non mentivo. Ma... non oso invocarle. Pur troppo,
+siamo stati vittime di esse tutti e due. Ho creduto
+d'amarvi. E, per una di quelle complicazioni
+della natura a cui non è possibile sottrarsi, io lo
+credo tuttora e forse veramente tuttora io vi amo.
+Ma non ho più il diritto di *crederlo*, e soprattutto
+non ho più il diritto di *dirvelo*.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+E lo avevate questo diritto, stanotte?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(angosciosamente)* Sì....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Quando abbiamo parlato insieme in questa stanza?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Sì.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(sempre più sofferente)* E dunque? Che mistero
+è questo?... *(Pausa.)* È già esaurito il vostro coraggio?...
+*(Febbricitante)* Ditemi chi è il vostro
+amante?
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(tace.)*
+
+[pg!354]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(riflettendo e acuendo il pensiero)* Sino a stanotte...
+avevate un diritto... che adesso non avete più!
+Sino a stanotte!... *(Trasalisce. Resta con lo sguardo
+fisso nel vuoto. Indi, obbedendo ad un impulso
+istantaneo, va verso la porta di Giovanni, chiamando
+forte:)* Giovanni! Giovanni!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(con disperazione)* No! Non lo chiamate!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+.. container:: noindent
+
+   *(terrorizzato)* Lui!!
+
+   *(Simultaneamente, Giovanni, entrando, si ferma
+   dinanzi alla porta.)*
+
+
+SCENA IV.
+---------
+
+LUCIO, NORA, GIOVANNI.
+``````````````````````
+
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(dopo un lungo silenzio, comincia con voce fievole,
+che a poco a poco diventerà vibrante di strazio:)*
+È giusto! È giusto!... Io non ero un ostacolo.
+Al contrario! Ero un anello di congiunzione....
+È giustissimo!... Ho messo insieme un maschio
+ed una femmina, ed è accaduto quel che doveva
+accadere. L'umanità non è fatta che così....
+E io? Io? Sono diverso, io?!... Questo dolore immenso...
+[pg!355]
+immenso come non ho mai provato... questo
+dolore supremo che mi prende tutto, che mi
+stritola, tutto, che cosa è? Che cosa è?... Gelosia? — Io
+geloso?... Di che? Perchè?... Voi due *non* vi
+amate. *(Guardandoli)* Lo intendo.... Lo vedo....
+Eppure, io soffro! Io soffro! Io soffro! E quel che
+mi fa soffrire è soltanto la certezza del possesso
+altrui. Ma dunque? Dunque non ci è che questo,
+e non ci può essere che questo, se io, proprio io — io
+medesimo — soltanto di questo sono geloso!
+*(Li guarda aspramente, stranamente)* No, non siate
+come al cospetto di un giudice. E non crediate
+d'essere colpevoli. Qual'è la vostra colpa? Voi siete
+in perfetta regola con le leggi umane. Sono stato
+io l'uomo guasto, sono stato io l'uomo assurdo,
+sono stato io il degenerato; ed ora, ora che voi
+mi salvate, vorreste battervi il petto e chiedere
+una condanna? Oibò! Voi dovete esultare... voi
+dovete prendere parte a questo trionfo, a questa
+magnifica festa della mia vita. *(In una sinistra
+vampata)* Qui, qui! Tutti e due presso di me!
+Statemi accanto, perdio! Anzi... completate l'opera
+benefica...: abbracciatevi dinanzi a me...
+*(Afferra per un polso Nora, la strascina verso Giovanni,
+e, al colmo della concitazione, gliela spinge
+addosso)* Fate che io veda coi miei occhi com'è
+fatta la felicità!
+
+.. class:: center
+
+| :small-caps:`Giovanni` *e* :small-caps:`Nora`
+
+*(al contatto, hanno un fremito di repulsione e
+subito si distaccano.)*
+
+[pg!356]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(sfinito, cade sopra una sedia.)* *(Pausa.)* *(Indi,
+con una fioca intonazione di preghiera)* Adesso,
+via! via!... Ho bisogno di restar solo... *(E con
+una improvvisa violenza brutale)* Voglio restar solo!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+*(convulsa, supplichevole)* Ma..., solo,... in questo
+stato,... che cosa volete voi fare, Lucio? *(Lo sguardo
+di lei è attirato dai coltelli che sono sulla tavola.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ah!... Il luccicchìo di quei coltelli vi turba?...
+Pensate, forse, che io voglia ammazzarmi?... Ma
+no! Ma no! Non temete. Oramai, è preziosa anche
+a me questa carne che ci copre!... *(Cupidamente,
+toccandosi come per constatare la propria esistenza)*
+Oramai, mi è cara più di quanto non vi sia
+cara la vostra, e... *me la serbo!* *(Come una proclamazione:)*
+Sono impastato come gli altri!... *(Con
+un accento velenoso)* E andate via, perchè vi odio!
+
+.. class:: center
+
+| :small-caps:`Nora`
+
+Sì,... è indispensabile. Partirò immediatamente.
+*(Prende in un canto il suo cappellino, e, sempre
+convulsa, si affretta a metterselo.)* Troverete voi
+stesso... un pretesto per vostro zio.... Direte... direte...
+che ho ricevuto un telegramma urgente... che
+non ho avuto neanche il tempo di prendere le
+[pg!357]
+mie robe... e che sono partita col primo treno... *(Lagrimando)*
+Sì... Sì... l'equivoco si è chiarito.... Ognuno
+per la sua strada!... La mia — me ne accorgo — è
+molto umile.... Addio, Lucio.... *(Poi, con uno sforzo
+di energia, severamente, senza piangere e dando al
+saluto un significato di risoluzione definitiva:)* Addio,
+Giovanni! *(Ed esce dal fondo.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(a Giovanni:)* E tu non vai? Non l'accompagni?
+Non la segui?
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(con tristezza)* Nora non mi ama.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Ma è la tua amante.
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Nora non ama che te.
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(levandosi con impeto d'ira furibonda e sprezzante)*
+No! perchè se ciò fosse vero, oltre a essere
+un amico falso, tu saresti un seduttore grottesco....
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Lucio!
+
+[pg!358]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Un seduttore grottesco e un ladro infame!
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+Lucio!... *(Sta per avventarglisi addosso.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Vuoi battermi anche? E battimi se ne hai il coraggio.
+Battimi....
+
+.. class:: center
+
+| :small-caps:`Giovanni`
+
+*(retrocedendo con orrore)* Oh! *(Vorrebbe nascondersi,
+vorrebbe sparire. Balbetta:)* Perdonami... perdonami...
+*(e fugge nella sua stanza.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(in tono tragico e trionfale)* Solo! Ma guarito
+finalmente! *(La crisi incalza. Egli comincia a singhiozzare.
+Siede presso la tavola. Si nasconde il
+volto fra le mani come per sottrarsi anche all'aria
+che lo circonda, e scoppia in un libero pianto quasi
+puerile)* Ziegler! Ziegler! Perchè almeno tu non
+mi sei vicino?! *(A poco a poco, il pianto cessa ed
+egli resta affranto, colle braccia sulla tavola e la
+testa piegata sulle braccia.)*
+
+[pg!359]
+
+
+SCENA V.
+--------
+
+LUCIO, ROSA, *la voce di* GIUSTINO.
+```````````````````````````````````
+
+
+*(Ora il sole è più alto, la luce più chiara e più vivida. Si ode la campanella festosa della chiesa. Sale dalla strada la voce di Giustino.)*
+
+.. class:: center
+
+| :small-caps:`La voce di Giustino`
+
+Ohi, Rosa! Ohi, Rosina! Vieni giù per la messa,
+chè Don Paolo è pronto.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(di dentro)* Eccomi, eccomi.
+
+.. class:: center
+
+| :small-caps:`La voce di Giustino`
+
+E non ti scordare i fiori per la Madonna.
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(in una sfarzosa veste quasi contadinesca, recando
+un fascio di fiori, entra imbarazzata. Sogguarda
+Lucio e gli si accosta timidamente.)*
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+*(voltandosi appena)* Che è? Che vuoi?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(riluttante)* Vi hanno dato un gran dispiacere?
+[pg!360]
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+No!... E poi, che capiresti tu?
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(sincera)* Per voi, io sono una sciocca... sono
+un'estranea....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Un'estranea? *(La guarda tutta dalla testa ai
+piedi.)* Un'estranea, no. Bambina, eri il mio trastullo....
+Più tardi, quando avevi tredici anni, io, *(misteriosamente)*
+di nascosto, ti baciavo....
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+Signor Lucio....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Sì, *(ravvivandosi al ricordo)* e, un giorno, lo zio
+ci sorprese laggiù, nella vigna, e, rimproverandomi
+acerbamente, mi disse: «Bada, io esigo che tu rispetti
+quella ragazza come si rispetta una cugina!...»
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(vergognandosi)* Signor Lucio....
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+Lo disse lui. E io, che ho risoluto di stabilirmi
+qui, quando resteremo soli, ti chiamerò appunto:
+[pg!361]
+cugina. *(Le prende le mani. I fiori cadono a terra
+ai piedi di Lucio. Egli continua abbassando la
+voce:)* E tu lo sai, tu lo sai che io posso chiamarti
+così!...
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(tutta spaurita, arrossendo)* Io non so niente!
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+No, non arrossire! Il tuo rossore è un'ingratitudine: — è
+un'ingratitudine verso quell'uomo che,
+pur facendo un poco di bene a se stesso, ne fece
+sempre anche agli altri....: a te specialmente, perchè
+ti diede la vita, e la Vita è un Bene!... E sarà
+lui che m'insegnerà a vivere! *(Sempre più ravvivandosi
+nell'esaltazione d'un'ebbrezza dolorosa)* Sarà
+lui che m'insegnerà a ridere, a star sano, a godere,
+a godere un'altra volta come quando avevo
+vent'anni.... *(Levandosi e tenendola tuttora per le
+mani, la trae a sè con uno spasmodico sforzo di
+giocondità)*... E vivremo allegramente, credimi, e
+faremo baldoria.... Oh, se faremo baldoria!... E
+chi sa... chi sa... che l'antica vigna non ci riveda!...
+*(Le dà un bacio rovente.)*
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(tremante)* Signor Lucio...
+
+.. class:: center
+
+| :small-caps:`Lucio`
+
+.. container:: noindent
+
+   *(lasciandole le mani)* No! Non ho detto nulla...
+   Non ho fatto nulla.... Va, ragazza mia, va a messa
+   [pg!362]
+   col tuo fidanzato, va a messa... *(Raccoglie i fiori
+   e glieli ridà. Poi, subito, gliene strappa un ciuffo
+   e se ne copre il viso odorando avidamente)* Va...
+   va... va...
+
+   *(La campanella della chiesa riempie l'aria di
+   squilli allegri.)*
+
+.. class:: center
+
+| :small-caps:`Rosa`
+
+*(si allontana in un raggio di sole.)*
+
+.. class:: center
+
+| (:small-caps:`Sipario.`)
+
+.. vspace:: 2
+
+.. class:: center
+
+| :small-caps:`Fine del dramma`.
+
+
+.. pgfooter::
